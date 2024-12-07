@@ -1,0 +1,3349 @@
+[
+  {
+    "subject": "CS",
+    "number": "100",
+    "title": "Computer Science Orientation",
+    "credit_hours": "1",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "Introduction to Computer Science as a field and career for incoming first year and external transfer students in the computer science majors. Overview of the field and specific examples of problem areas and methods of solution.",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "101",
+    "title": "Intro Computing: Engrg & Sci",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "MATH 220",
+          "MATH 221",
+          "MATH 231",
+          "MATH 241"
+        ]
+      ],
+      "raw_text": "One of MATH\u00a0220 or MATH\u00a0221 or MATH\u00a0231 or MATH\u00a0241. This course satisfies the General Education Criteria for:Quantitative Reasoning II"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "102",
+    "title": "Little Bits to Big Ideas",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "INFO 102",
+      "INFO 102"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "105",
+    "title": "Intro Computing: Non-Tech",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [
+        "MATH 112"
+      ],
+      "or_groups": [],
+      "raw_text": "MATH\u00a0112. This course satisfies the General Education Criteria for:Quantitative Reasoning I"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "107",
+    "title": "Data Science Discovery",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "IS 107",
+      "STAT 107",
+      "STAT 107"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "124",
+    "title": "Introduction to Computer Science I",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "MATH 112"
+        ]
+      ],
+      "raw_text": "Three years of high school mathematics or MATH\u00a0112.This course satisfies the General Education Criteria for:Quantitative Reasoning I"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "125",
+    "title": "Introduction to Computer Science",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "MATH 112"
+        ]
+      ],
+      "raw_text": "Three years of high school mathematics or MATH\u00a0112. This course satisfies the General Education Criteria for:Quantitative Reasoning I"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "126",
+    "title": "Software Design Studio",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [
+        "CS 125"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0125. For majors only."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "128",
+    "title": "Introduction to Computer Science II",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 124",
+          "CS 125"
+        ]
+      ],
+      "raw_text": "CS\u00a0124 or CS\u00a0125.This course satisfies the General Education Criteria for:Quantitative Reasoning II"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "173",
+    "title": "Discrete Structures",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 124",
+          "CS 125",
+          "ECE 220",
+          "MATH 220",
+          "MATH 221"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0124, CS\u00a0125, ECE\u00a0220; one of MATH\u00a0220, MATH\u00a0221."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "196",
+    "title": "First-Year Student Honors",
+    "credit_hours": "1",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Concurrent registration in another 100-level computer science course (see Schedule)."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "199",
+    "title": "Undergraduate Open Seminar in Computer Science",
+    "credit_hours": "0 to 5",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "Topics vary. Approved for Letter and S/U grading. May be repeated.",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "210",
+    "title": "Ethical & Professional Issues",
+    "credit_hours": "2",
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225. Junior standing required."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "211",
+    "title": "Ethical and Professional Conduct",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225.This course satisfies the General Education Criteria for:Advanced Composition"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "222",
+    "title": "Software Design Lab",
+    "credit_hours": "1",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 128",
+          "CS 225"
+        ]
+      ],
+      "raw_text": "CS\u00a0128; credit or concurrent registration in CS\u00a0225. Restricted to majors in Computer Science undergraduate curricula only."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "225",
+    "title": "Data Structures",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 126",
+          "CS 128",
+          "ECE 220",
+          "CS 173",
+          "CS 413",
+          "MATH 213",
+          "MATH 347",
+          "MATH 412",
+          "MATH 413"
+        ]
+      ],
+      "raw_text": "CS\u00a0126 or CS\u00a0128 or ECE\u00a0220; One of CS\u00a0173, CS\u00a0413, MATH\u00a0213, MATH\u00a0347, MATH\u00a0412, or MATH\u00a0413. This course satisfies the General Education Criteria for:Quantitative Reasoning II"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "233",
+    "title": "Computer Architecture",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 125",
+          "CS 128",
+          "CS 173",
+          "MATH 213",
+          "CS 225"
+        ]
+      ],
+      "raw_text": "CS\u00a0125 or CS\u00a0128; CS\u00a0173 or MATH\u00a0213; credit or concurrent enrollment in CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "242",
+    "title": "Programming Studio",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [
+        "CS 241"
+      ],
+      "or_groups": [],
+      "raw_text": "CS 241."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "265",
+    "title": "Innovation Illinois: From Accessible Design to Supercomputing Cultures",
+    "credit_hours": "3",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "IS 265",
+      "MACS 265",
+      "MACS 265"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "266",
+    "title": "Community Innovation",
+    "credit_hours": "3",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "IS 266",
+      "MACS 266",
+      "IS 266"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "277",
+    "title": "Algorithms and Data Structures for Data Science",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "STAT 207",
+        "MATH 220",
+        "MATH 221",
+        "MATH 234",
+        "CS 277",
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "STAT\u00a0207; one of MATH\u00a0220, MATH\u00a0221, MATH\u00a0234. CS\u00a0277 cannot be taken concurrently with CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "296",
+    "title": "Honors Course",
+    "credit_hours": "1",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Concurrent registration in another 200-level computer science course (see Schedule)."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "307",
+    "title": "Modeling and Learning in Data Science",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "STAT 207",
+        "MATH 225",
+        "MATH 227",
+        "MATH 257",
+        "MATH 415",
+        "MATH 416",
+        "ASRM 406"
+      ],
+      "or_groups": [],
+      "raw_text": "STAT\u00a0207; one of MATH\u00a0225, MATH\u00a0227, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "340",
+    "title": "Introduction to Computer Systems",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "341",
+    "title": "System Programming",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "CS 225",
+        "CS 233"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225 and CS\u00a0233."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "357",
+    "title": "Numerical Methods I",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 101",
+          "CS 105",
+          "CS 124",
+          "CS 125",
+          "ECE 220",
+          "MATH 241",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0101, CS\u00a0105, CS\u00a0124, CS\u00a0125 or ECE\u00a0220; MATH\u00a0241; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406 or BIOE\u00a0210."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "361",
+    "title": "Probability & Statistics for Computer Science",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "MATH 220",
+          "MATH 221",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406"
+        ]
+      ],
+      "raw_text": "MATH\u00a0220 or MATH\u00a0221; credit or concurrent registration in one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416 or ASRM\u00a0406. For majors only."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "374",
+    "title": "Introduction to Algorithms & Models of Computation",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 173",
+          "MATH 213",
+          "CS 225"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0173, MATH\u00a0213; CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "397",
+    "title": "Individual Study",
+    "credit_hours": "1 to 3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Consent of instructor."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "398",
+    "title": "Special Topics",
+    "credit_hours": "1 to 4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary.",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "400",
+    "title": "Accelerated Fundamentals of Computing I",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Current enrollment in the Illinois Computing Accelerator for Non-specialists (iCAN) program or consent of instructor. Restricted to post-baccalaureate students with a non-computing background."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "401",
+    "title": "Accelerated Fundamentals of Algorithms I",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Current enrollment in the Illinois Computing Accelerator for Non-specialists (iCAN) program or consent of instructor. Restricted to post- baccalaureate students with a non-computing background."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "402",
+    "title": "Accelerated Fundamentals of Computing II",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 400"
+        ]
+      ],
+      "raw_text": "CS\u00a0400 or consent of instructor. Current enrollment in the Illinois Computing Accelerator for Non-specialists (iCAN) program or consent of instructor. Restricted to post-baccalaureate students with a non-computing background."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "403",
+    "title": "Accelerated Fundamentals of Algorithms II",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 401"
+        ]
+      ],
+      "raw_text": "CS\u00a0401 or consent of instructor. Current enrollment in the Illinois Computing Accelerator for Non-specialists (iCAN) program or consent of instructor. Restricted to post-baccalaureate students with a non-computing background."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "407",
+    "title": "Cryptography",
+    "credit_hours": null,
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 407",
+      "ECE 407"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "409",
+    "title": "The Art of Web Programming",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "410",
+    "title": "Text Information Systems",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "411",
+    "title": "Database Systems",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "412",
+    "title": "Introduction to Data Mining",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "413",
+    "title": "Intro to Combinatorics",
+    "credit_hours": null,
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "MATH 413",
+      "MATH 413"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "414",
+    "title": "Multimedia Systems",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 240",
+          "CS 241",
+          "CS 340",
+          "CS 341",
+          "ECE 391"
+        ]
+      ],
+      "raw_text": "One of CS 240, CS 241, CS\u00a0340, CS\u00a0341 or ECE\u00a0391."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "415",
+    "title": "Game Development",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "416",
+    "title": "Data Visualization",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "417",
+    "title": "Virtual Reality",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "418",
+    "title": "Interactive Computer Graphics",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210",
+          "MATH 241"
+        ]
+      ],
+      "raw_text": "CS\u00a0225; One of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406, or BIOE\u00a0210; MATH\u00a0241."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "419",
+    "title": "Production Computer Graphics",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 418",
+          "CSE 427"
+        ]
+      ],
+      "raw_text": "CS\u00a0418 or CSE\u00a0427."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "420",
+    "title": "Parallel Progrmg: Sci & Engrg",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "421",
+    "title": "Programming Languages & Compilers",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 233",
+          "CS 240",
+          "CS 340",
+          "ECE 391",
+          "CS 374",
+          "ECE 374",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0233, CS 240, CS\u00a0340 or ECE\u00a0391; CS\u00a0374 or ECE\u00a0374; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406, or BIOE\u00a0210."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "422",
+    "title": "Programming Language Design",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 421"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0421."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "423",
+    "title": "Operating Systems Design",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 241",
+          "CS 341",
+          "ECE 391"
+        ]
+      ],
+      "raw_text": "One of CS 241, CS\u00a0341, or ECE\u00a0391."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "424",
+    "title": "Real-Time Systems",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 241",
+          "CS 341",
+          "ECE 391"
+        ]
+      ],
+      "raw_text": "One of CS 241, CS\u00a0341 or ECE\u00a0391."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "425",
+    "title": "Distributed Systems",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 240",
+          "CS 241",
+          "CS 340",
+          "CS 341",
+          "ECE 391"
+        ]
+      ],
+      "raw_text": "Credit or concurrent enrollment in one of CS 240, CS 241, CS\u00a0340, CS\u00a0341 or ECE\u00a0391."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "426",
+    "title": "Compiler Construction",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 421"
+        ]
+      ],
+      "raw_text": "Credit or concurrent enrollment in CS\u00a0421."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "427",
+    "title": "Software Engineering I",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 222",
+          "CS 240",
+          "CS 241",
+          "CS 340",
+          "CS 341",
+          "ECE 391"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0222, CS 240, CS 241, CS\u00a0340, CS\u00a0341 or ECE\u00a0391."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "428",
+    "title": "Software Engineering II",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 427",
+          "CSE 426"
+        ]
+      ],
+      "raw_text": "CS\u00a0427 or CSE\u00a0426."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "429",
+    "title": "Software Engineering II, ACP",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 427",
+          "CSE 426"
+        ]
+      ],
+      "raw_text": "CS\u00a0427 or CSE\u00a0426.This course satisfies the General Education Criteria for:Advanced Composition"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "431",
+    "title": "Embedded Systems",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 241",
+          "CS 341",
+          "ECE 391"
+        ]
+      ],
+      "raw_text": "One of CS 241, CS\u00a0341 or ECE\u00a0391."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "433",
+    "title": "Computer System Organization",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 233"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0233."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "434",
+    "title": "Real World Algorithms for IoT and Data Science",
+    "credit_hours": null,
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 434",
+      "ECE 434"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "435",
+    "title": "Cloud Networking",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 240",
+          "CS 241",
+          "CS 340",
+          "CS 341",
+          "ECE 391"
+        ]
+      ],
+      "raw_text": "One of CS 240, CS 241, CS\u00a0340, CS\u00a0341 or ECE\u00a0391."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "436",
+    "title": "Computer Networking Laboratory",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 240",
+          "CS 241",
+          "CS 340",
+          "CS 341",
+          "ECE 391"
+        ]
+      ],
+      "raw_text": "One of CS 240, CS 241, CS\u00a0340, CS\u00a0341 or ECE\u00a0391."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "437",
+    "title": "Topics in Internet of Things",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 241",
+          "CS 341"
+        ]
+      ],
+      "raw_text": "CS 241 or CS\u00a0341. Additional prerequisites may be specified each term. See section information."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "438",
+    "title": "Communication Networks",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 241",
+          "CS 341",
+          "ECE 391",
+          "CS 361",
+          "STAT 361",
+          "ECE 313",
+          "MATH 362",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400"
+        ]
+      ],
+      "raw_text": "One of CS 241, CS\u00a0341 or ECE\u00a0391; strongly recommend one of CS\u00a0361, STAT\u00a0361, ECE\u00a0313, MATH\u00a0362, MATH\u00a0461, MATH\u00a0463 or STAT\u00a0400."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "439",
+    "title": "Wireless Networks",
+    "credit_hours": null,
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 439",
+      "ECE 439"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "440",
+    "title": "Artificial Intelligence",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "CS 361",
+          "STAT 361",
+          "ECE 313",
+          "MATH 362",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400",
+          "BIOE 310"
+        ]
+      ],
+      "raw_text": "CS\u00a0225; one of CS\u00a0361, STAT\u00a0361, ECE\u00a0313, MATH\u00a0362, MATH\u00a0461, MATH\u00a0463, STAT\u00a0400 or BIOE\u00a0310."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "441",
+    "title": "Applied Machine Learning",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225",
+        "CS 361"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225 and CS\u00a0361."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "442",
+    "title": "Trustworthy Machine Learning",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "CS 440",
+          "ECE 448",
+          "CS 441",
+          "CS 446",
+          "ECE 449",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210"
+        ]
+      ],
+      "raw_text": "CS\u00a0225; one of CS\u00a0440, ECE\u00a0448, CS\u00a0441, CS\u00a0446 or ECE\u00a0449; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406 or BIOE\u00a0210."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "443",
+    "title": "Reinforcement Learning",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "MATH 241",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210",
+          "CS 361",
+          "STAT 361",
+          "ECE 313",
+          "MATH 362",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400"
+        ]
+      ],
+      "raw_text": "CS\u00a0225; MATH\u00a0241; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406 or BIOE\u00a0210; one of CS\u00a0361, STAT\u00a0361, ECE\u00a0313, MATH\u00a0362, MATH\u00a0461, MATH\u00a0463 or STAT\u00a0400."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "444",
+    "title": "Deep Learning for Computer Vision",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "MATH 241",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210",
+          "CS 225",
+          "CS 361",
+          "ECE 313",
+          "MATH 461",
+          "STAT 400"
+        ]
+      ],
+      "raw_text": "MATH\u00a0241; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406, or BIOE\u00a0210; CS\u00a0225 or equivalent; one of CS\u00a0361, ECE\u00a0313, MATH\u00a0461 or STAT\u00a0400. No previous exposure to machine learning is required."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "445",
+    "title": "Computational Photography",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225",
+        "MATH 225",
+        "MATH 231"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225, MATH\u00a0225, and MATH\u00a0231."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "446",
+    "title": "Machine Learning",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210",
+          "CS 361",
+          "STAT 361",
+          "ECE 313",
+          "MATH 362",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400",
+          "BIOE 310"
+        ]
+      ],
+      "raw_text": "CS\u00a0225; One of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406 or BIOE\u00a0210; one of CS\u00a0361, STAT\u00a0361, ECE\u00a0313, MATH\u00a0362, MATH\u00a0461, MATH\u00a0463, STAT\u00a0400 or BIOE\u00a0310."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "447",
+    "title": "Natural Language Processing",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 173",
+          "MATH 213",
+          "CS 225",
+          "CS 374",
+          "ECE 374",
+          "CS 361",
+          "STAT 361",
+          "ECE 313",
+          "MATH 362",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400",
+          "BIOE 310",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0173 or MATH\u00a0213; CS\u00a0225; CS\u00a0374 or ECE\u00a0374; one of CS\u00a0361, STAT\u00a0361, ECE\u00a0313, MATH\u00a0362, MATH\u00a0461, MATH\u00a0463, STAT\u00a0400 or BIOE\u00a0310; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406 or BIOE\u00a0210."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "448",
+    "title": "Audio Computing Laboratory",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 240",
+          "CS 241",
+          "CS 340",
+          "CS 341",
+          "ECE 391",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210"
+        ]
+      ],
+      "raw_text": "One of CS 240, CS 241, CS\u00a0340, CS\u00a0341, or ECE\u00a0391; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406, or BIOE\u00a0210."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "450",
+    "title": "Numerical Analysis",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 101",
+          "CS 124",
+          "CS 125",
+          "CS 357",
+          "MATH 257",
+          "MATH 357",
+          "MATH 415",
+          "MATH 416",
+          "MATH 285"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0101, CS\u00a0124 or CS\u00a0125; one of CS\u00a0357, MATH\u00a0257, MATH\u00a0357, MATH\u00a0415, or MATH\u00a0416; MATH\u00a0285."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "460",
+    "title": "Security Laboratory",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 461",
+          "ECE 422"
+        ]
+      ],
+      "raw_text": "CS\u00a0461 or ECE\u00a0422."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "461",
+    "title": "Computer Security I",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 241",
+          "CS 341",
+          "ECE 391",
+          "CS 233",
+          "CS 340"
+        ]
+      ],
+      "raw_text": "One of CS 241, CS\u00a0341 or ECE\u00a0391, or a combination of CS\u00a0233 and CS\u00a0340."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "463",
+    "title": "Computer Security II",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 461",
+        "CS 475"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0461. Recommended: CS\u00a0475."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "464",
+    "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "CS 210",
+          "CS 211",
+          "ECE 316",
+          "PHIL 316",
+          "CS 361",
+          "STAT 400",
+          "STAT 200"
+        ]
+      ],
+      "raw_text": "CS\u00a0225. One of CS\u00a0210 or CS\u00a0211 or ECE\u00a0316 or PHIL\u00a0316. One of CS\u00a0361 or STAT\u00a0400 or STAT\u00a0200. Restricted to students with senior standing."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "465",
+    "title": "User Interface Design",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "466",
+    "title": "Introduction to Bioinformatics",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "467",
+    "title": "Social Visualization",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [
+        "CS 225"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0225."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "468",
+    "title": "Tech and Advertising Campaigns",
+    "credit_hours": "3",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ADV 492",
+      "ADV 492"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "469",
+    "title": "Computational Advertising Infrastructure",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 173",
+          "CS 225",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210",
+          "CS 361",
+          "STAT 361",
+          "ECE 313",
+          "MATH 362",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400"
+        ]
+      ],
+      "raw_text": "CS\u00a0173; CS\u00a0225; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406 or BIOE\u00a0210; one of CS\u00a0361, STAT\u00a0361, ECE\u00a0313, MATH\u00a0362, MATH\u00a0461, MATH\u00a0463 or STAT\u00a0400."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "470",
+    "title": "Social and Information Networks",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "CS 173",
+          "CS 361",
+          "STAT 361",
+          "ECE 313",
+          "MATH 362",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400",
+          "MATH 225",
+          "MATH 257",
+          "MATH 415",
+          "MATH 416",
+          "ASRM 406",
+          "BIOE 210"
+        ]
+      ],
+      "raw_text": "CS\u00a0225; CS\u00a0173; one of CS\u00a0361, STAT\u00a0361, ECE\u00a0313, MATH\u00a0362, MATH\u00a0461, MATH\u00a0463 or STAT\u00a0400; one of MATH\u00a0225, MATH\u00a0257, MATH\u00a0415, MATH\u00a0416, ASRM\u00a0406, or BIOE\u00a0210."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "473",
+    "title": "Algorithms",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 374",
+          "ECE 374",
+          "CS 361",
+          "STAT 361",
+          "ECE 313",
+          "MATH 362",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400"
+        ]
+      ],
+      "raw_text": "CS\u00a0374 or ECE\u00a0374, and one of CS\u00a0361, STAT\u00a0361, ECE\u00a0313, MATH\u00a0362, MATH\u00a0461, MATH\u00a0463 or STAT\u00a0400."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "474",
+    "title": "Logic in Computer Science",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 173",
+          "CS 225",
+          "CS 374",
+          "ECE 374"
+        ]
+      ],
+      "raw_text": "CS\u00a0173; CS\u00a0225; one of CS\u00a0374 or ECE\u00a0374."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "475",
+    "title": "Formal Models of Computation",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 374",
+          "ECE 374"
+        ]
+      ],
+      "raw_text": "CS\u00a0374 or ECE\u00a0374."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "476",
+    "title": "Program Verification",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "CS 374",
+          "ECE 374",
+          "MATH 414"
+        ]
+      ],
+      "raw_text": "CS\u00a0225; one of CS\u00a0374, ECE\u00a0374 or MATH\u00a0414."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "477",
+    "title": "Formal Software Development Methods",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 225",
+          "CS 374",
+          "ECE 374",
+          "MATH 414"
+        ]
+      ],
+      "raw_text": "CS\u00a0225; one of CS\u00a0374, ECE\u00a0374 or MATH\u00a0414."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "481",
+    "title": "Advanced Topics in Stochastic Processes & Applications",
+    "credit_hours": null,
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "IE 410",
+      "IE 410"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "482",
+    "title": "Simulation",
+    "credit_hours": null,
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "IE 413",
+      "IE 413"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "483",
+    "title": "Applied Parallel Programming",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "CSE 408",
+      "ECE 408",
+      "ECE 408"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "484",
+    "title": "Parallel Programming",
+    "credit_hours": null,
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 241",
+          "CS 341"
+        ]
+      ],
+      "raw_text": "CS 241 or CS\u00a0341."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "491",
+    "title": "Seminar",
+    "credit_hours": "0 to 4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "As specified for each topic offering, see Class Schedule or departmental course description."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "492",
+    "title": "Senior Project I",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "For Computer Science majors with senior standing."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "493",
+    "title": "Senior Project II, ACP",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [
+        "CS 492"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0492.This course satisfies the General Education Criteria for:Advanced Composition"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "494",
+    "title": "Senior Project II",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [
+        "CS 492"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0492."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "497",
+    "title": "CS Team Project",
+    "credit_hours": "1 to 3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "For majors only; junior or senior standing required."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "498",
+    "title": "Special Topics",
+    "credit_hours": "1 to 4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated in the same or separate terms if topics vary.",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "499",
+    "title": "Senior Thesis",
+    "credit_hours": "3",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Consent of instructor.This course satisfies the General Education Criteria for:Advanced Composition"
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "500",
+    "title": "Current Topics in Computing Education Research",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "Current research topics and theories in Computers and Education with an emphasis on learning theories such as constructivism, behaviorism, cognitivism, knowledge-in-pieces, test-potentiated learning, and transfer of learning. These theories will be applied to understanding how students learn computing topics such as programming and theoretical computing. These topics will be applied through the design of ethically responsible educational research studies. The course will culminate in students writing a research proposal or conference-style research paper based upon pilot data. 4 graduate hours. No professional credit. May be repeated if topics vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the CS department.",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "507",
+    "title": "Topics in Cryptography",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Offerings in separate semesters may specify additional prerequisites each term, depending on the specific topic offered. See section information for additional details."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "508",
+    "title": "Manycore Parallel Algorithms",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 508",
+      "ECE 508"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "510",
+    "title": "Advanced Information Retrieval",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 410",
+          "CS 412",
+          "CS 446",
+          "ECE 449",
+          "LING 406"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0410, CS\u00a0412, CS\u00a0446, ECE\u00a0449 or LING\u00a0406."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "511",
+    "title": "Advanced Data Management",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "CS 411"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0411."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "512",
+    "title": "Data Mining Principles",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "CS 412"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0412."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "513",
+    "title": "Theory & Practice of Data Cleaning",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "IS 537",
+      "IS 537"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "514",
+    "title": "Advanced Topics in Network Science",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 412",
+          "CS 446",
+          "ECE 449"
+        ]
+      ],
+      "raw_text": "CS\u00a0412; one of CS\u00a0446 or ECE\u00a0449. Additional prerequisites or corequisites may be specified each term. See section information."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "519",
+    "title": "Scientific Visualization",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 418",
+          "CSE 427"
+        ]
+      ],
+      "raw_text": "CS\u00a0418 or CSE\u00a0427."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "521",
+    "title": "Advanced Topics in Programming Systems",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 374",
+          "ECE 374",
+          "CS 421"
+        ]
+      ],
+      "raw_text": "CS\u00a0374 or ECE\u00a0374; CS\u00a0421. Additional prerequisites or corequisites may be specified each term. See section information."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "522",
+    "title": "Programming Language Semantics",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "CS 422",
+        "CS 426"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0422 and CS\u00a0426."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "523",
+    "title": "Advanced Operating Systems",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 423",
+          "CSE 423",
+          "CS 425",
+          "ECE 428",
+          "CS 433",
+          "CSE 422"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0423 or CSE\u00a0423; one of CS\u00a0425 or ECE\u00a0428; and one of CS\u00a0433 or CSE\u00a0422."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "524",
+    "title": "Concurrent Progrmg Languages",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 422",
+          "CS 475",
+          "MATH 475",
+          "CS 476"
+        ]
+      ],
+      "raw_text": "CS\u00a0422; one of CS\u00a0475, MATH\u00a0475 or CS\u00a0476."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "525",
+    "title": "Advanced Distributed Systems",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 423",
+          "CSE 423",
+          "CS 425",
+          "ECE 428",
+          "CS 438",
+          "ECE 438"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0423, CSE\u00a0423, CS\u00a0425, ECE\u00a0428, CS\u00a0438 or ECE\u00a0438."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "526",
+    "title": "Advanced Compiler Construction",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "CS 426"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0426."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "527",
+    "title": "Topics in Software Engineering",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 428",
+          "CSE 429",
+          "CS 429"
+        ]
+      ],
+      "raw_text": "CS\u00a0428, CSE\u00a0429 or CS\u00a0429."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "533",
+    "title": "Parallel Computer Architecture",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 433",
+          "CSE 422"
+        ]
+      ],
+      "raw_text": "CS\u00a0433 or CSE\u00a0422."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "534",
+    "title": "Advanced Topics in Computer Architecture",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 433",
+          "CSE 422"
+        ]
+      ],
+      "raw_text": "CS\u00a0433 or CSE\u00a0422. Additional prerequisites or co-requisites may be specified each term. See Class Schedule information."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "536",
+    "title": "Fault-Tolerant Dig Syst Design",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 542",
+      "ECE 542"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "537",
+    "title": "Advanced Topics in Internet of Things (IoT)",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 425",
+          "ECE 428",
+          "CS 438",
+          "ECE 438"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0425 or ECE\u00a0428; one of CS\u00a0438 or ECE\u00a0438. Additional prerequisites may be specified each term. See section information."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "538",
+    "title": "Advanced Computer Networks",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 438",
+          "ECE 438"
+        ]
+      ],
+      "raw_text": "CS\u00a0438 or ECE\u00a0438."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "539",
+    "title": "Distributed Algorithms",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 526",
+      "ECE 526"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "540",
+    "title": "Deep Learning Theory",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Basic linear algebra, probability, proof-writing, and statistics required. Real analysis recommended."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "541",
+    "title": "Computer Systems Analysis",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 541",
+      "ECE 541"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "542",
+    "title": "Statistical Reinforcement Learning",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Calculus, linear algebra, probability and statistics, and basic concepts of machine learning. Familiarity with (at least one of) the following topics is highly recommended: stochastic processes, numerical analysis, and theoretical computer science."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "543",
+    "title": "Computer Vision",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 549",
+      "ECE 549"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "544",
+    "title": "Optimiz in Computer Vision",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 450",
+          "CSE 401",
+          "ECE 491",
+          "MATH 450",
+          "CS 473",
+          "CSE 414",
+          "MATH 473"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0450, CSE\u00a0401, ECE\u00a0491, or MATH\u00a0450; one of CS\u00a0473, CSE\u00a0414 or MATH\u00a0473."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "545",
+    "title": "Machine Learning for Signal Processing",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "MATH 415",
+          "CS 361",
+          "STAT 361",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400"
+        ]
+      ],
+      "raw_text": "MATH\u00a0415; one of CS\u00a0361, STAT\u00a0361, MATH\u00a0461, MATH\u00a0463 or STAT\u00a0400."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "546",
+    "title": "Advanced Topics in Natural Language Processing",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 447",
+          "CS 446",
+          "ECE 449"
+        ]
+      ],
+      "raw_text": "CS\u00a0447 and one of CS\u00a0446 or ECE\u00a0449, or equivalent background."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "547",
+    "title": "Deep Learning",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "IE 534",
+      "IE 534"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "549",
+    "title": "Seminar in Cognitive Science",
+    "credit_hours": null,
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "PSYC 514",
+      "ANTH 514",
+      "EPSY 551",
+      "LING 570",
+      "PHIL 514",
+      "PSYC 514"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "554",
+    "title": "Parallel Numerical Algorithms",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 450",
+          "CSE 401",
+          "ECE 491",
+          "MATH 450",
+          "CS 457",
+          "CS 555",
+          "CSE 510",
+          "MATH 552"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0450, CSE\u00a0401, ECE\u00a0491, MATH\u00a0450, CS 457, CS\u00a0555, CSE\u00a0510 or MATH\u00a0552."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "555",
+    "title": "Numerical Methods for PDEs",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 450",
+          "CSE 401",
+          "ECE 491",
+          "MATH 450",
+          "CS 457"
+        ]
+      ],
+      "raw_text": "CS\u00a0450, CSE\u00a0401, ECE\u00a0491, MATH\u00a0450 or CS 457."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "556",
+    "title": "Iterative & Multigrid Methods",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "Comprehensive treatment of algebraic and multigrid iterative methods to solve systems of equations, primarily linear equations arising from discretization of partial differential equations. Same as CSE\u00a0511.",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "558",
+    "title": "Topics in Numerical Analysis",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "As specified for each topic offering, see Schedule or departmental course description."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "562",
+    "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 446",
+          "ECE 449",
+          "CS 463",
+          "ECE 424"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0446 or ECE\u00a0449 and one of CS\u00a0463 or ECE\u00a0424, or equivalent courses, by consent of instructor. Additional prerequisites or corequisites may be specified each term. See section information."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "563",
+    "title": "Advanced Computer Security",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 461",
+          "CS 463",
+          "ECE 422",
+          "ECE 424"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0461, CS\u00a0463, ECE\u00a0422 or ECE\u00a0424."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "565",
+    "title": "Human-Computer Interaction",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "CS 465"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0465."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "567",
+    "title": "Social Signals and Social Media",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 465"
+        ]
+      ],
+      "raw_text": "CS\u00a0465 or equivalent or permission of instructor. Prioritize PhD students, then others."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "568",
+    "title": "User-Centered Machine Learning",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 465"
+        ]
+      ],
+      "raw_text": "CS\u00a0465 or equivalent course work."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "571",
+    "title": "Combinatorial Mathematics",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "MATH 580",
+      "MATH 580"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "572",
+    "title": "Extremal Graph Theory",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "MATH 581",
+      "MATH 581"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "574",
+    "title": "Randomized Algorithms",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 473",
+          "CSE 414",
+          "MATH 473",
+          "MATH 461",
+          "MATH 463",
+          "STAT 400"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0473, CSE\u00a0414, or MATH\u00a0473; one of MATH\u00a0461, MATH\u00a0463 or STAT\u00a0400."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "575",
+    "title": "Methods of Combinatorics",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "MATH 584",
+      "MATH 584"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "576",
+    "title": "Topics in Automated Deduction",
+    "credit_hours": "2 to 4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "As specified for each topic offering, see Schedule or departmental course description."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "579",
+    "title": "Computational Complexity",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 473",
+          "CSE 414",
+          "MATH 473",
+          "CS 475",
+          "MATH 475"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0473, CSE\u00a0414, MATH\u00a0473, CS\u00a0475 or MATH\u00a0475."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "580",
+    "title": "Topics in Algorithmic Game Theory",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [
+        "CS 473"
+      ],
+      "or_groups": [],
+      "raw_text": "CS\u00a0473."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "581",
+    "title": "Algorithmic Genomic Biology",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 374",
+          "ECE 374",
+          "CS 361",
+          "STAT 361"
+        ]
+      ],
+      "raw_text": "One of CS\u00a0374 or ECE\u00a0374 and one of CS\u00a0361 or STAT\u00a0361, or consent of instructor."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "582",
+    "title": "Machine Learning for Bioinformatics",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 446",
+          "ECE 449",
+          "CS 466"
+        ]
+      ],
+      "raw_text": "CS\u00a0446 or ECE\u00a0449; Credit or concurrent enrollment in CS\u00a0466; or consent of instructor."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "583",
+    "title": "Approximation Algorithms",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 573",
+          "CSE 515"
+        ]
+      ],
+      "raw_text": "CS 573, CSE 515 or consent of instructor."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "584",
+    "title": "Embedded System Verification",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 584",
+      "ECE 584"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "585",
+    "title": "Hardware Verification",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "ECE 519",
+      "ECE 519"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "586",
+    "title": "Combinatorial Optimization",
+    "credit_hours": "4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [
+      "IE 519",
+      "IE 519"
+    ],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "588",
+    "title": "Autonomous Vehicle System Engineering",
+    "credit_hours": "4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [
+        [
+          "CS 374",
+          "ECE 374",
+          "ECE 484"
+        ]
+      ],
+      "raw_text": "CS\u00a0374, ECE\u00a0374, ECE\u00a0484, or equivalent."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "591",
+    "title": "Advanced Seminar",
+    "credit_hours": "0 to 4",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "As specified for each topic offering, see Class Schedule or departmental course description."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "597",
+    "title": "Individual Study",
+    "credit_hours": "2 to 16",
+    "prerequisites": {
+      "courses": [],
+      "or_groups": [],
+      "raw_text": "Consent of instructor."
+    },
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "598",
+    "title": "Special Topics",
+    "credit_hours": "2 to 4",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary.",
+    "other_info": ""
+  },
+  {
+    "subject": "CS",
+    "number": "599",
+    "title": "Thesis Research",
+    "credit_hours": "0 to 16",
+    "prerequisites": {},
+    "corequisites": [],
+    "same_as": [],
+    "gen_ed": [],
+    "credit_not_given": [],
+    "description": "Approved for S/U grading only. May be repeated.",
+    "other_info": ""
+  }
+]

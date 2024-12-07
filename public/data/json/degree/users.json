@@ -1,0 +1,43 @@
+{
+  "user_id": "aidan",
+  "data": {
+    "interests": ["machine learning", "AI", "computer science", "physics"],
+    "classes_taken": [
+      "PHYS 211: University Physics: Mechanics",
+      "RHET 105: Writing and Research",
+      "AFRO 100: Intro to African American St",
+      "CS 124: Intro to Computer Science I",
+      "CS 199: Supplementary Proj for CS 124",
+      "ENG 100: Engineering Orientation",
+      "ENG 111: MEP Mentoring",
+      "ENG 177: GFX Innovation Scholars",
+      "MATH 221: Calculus I",
+      "PHYS 100: Thinking About Physics",
+      "RST 335: Leisure and Consumer Culture",
+      "PS 241: Comp Politics in Dev Nations",
+      "CS 128: Intro to Computer Science II",
+      "CS 173: Discrete Structures",
+      "MATH 199: Merit Credit For Calc Course",
+      "MATH 231: Calculus II",
+      "MATH 241: Calculus III",
+      "CS 225: Data Structures",
+      "MATH 257: Linear Algebra w Computat Appl",
+      "PHYS 225: Relativity & Math Applications",
+      "STAT 400: Statistics and Probability I"
+    ],
+    "degree": "Bachelor of Science in Physics, Bachelor of Science in Mathematics & Computer Science, Master of Science in Computer Science (Expected)",
+    "major": ["Physics", "Mathematics & Computer Science"],
+    "minor": "None",
+    "gpa": 3.87,
+    "year_of_study": 2,
+    "semesters_left": 6,
+    "career_goals": ["Research and development in AI and machine learning", "Developing practical solutions to real-world problems using technology"],
+    "learning_style": "YOUR_LEARNING_STYLE",
+    "time_commitment": "60 hours a week",
+    "preferred_subjects": ["machine learning", "AI", "computer science", "physics"],
+    "academic_strengths": ["math", "physics"],
+    "academic_weaknesses": "YOUR_ACADEMIC_WEAKNESSES",
+    "extracurriculars": ["Member of SIGAIDA", "Chess (Rated 2000, active in tournaments)", "Elite Division 1 Level Ice Hockey Player"]
+  }
+}
+

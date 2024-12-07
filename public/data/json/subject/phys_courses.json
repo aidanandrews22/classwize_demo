@@ -1,0 +1,653 @@
+[
+  {
+    "class-number": "PHYS 100",
+    "class-title": "Thinking About Physics",
+    "credits": "2 Hours Hours.",
+    "description": "Conceptual and problem solving skills in preparation for PHYS 211: --analysis and mathematical descriptions of physical situations --understanding the meaning of the solutions Prerequisite: Credit or concurrent registration in MATH 220 or MATH 221.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/100"
+  },
+  {
+    "class-number": "PHYS 101",
+    "class-title": "College Physics: Mech & Heat",
+    "credits": "5 Hours Hours.",
+    "description": "Newton's Laws, work and energy, rotational motion, fluids, thermodynamics, and waves. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine. Credit is not given for both PHYS 101 and either PHYS 211 or PHYS 213. Prerequisite: Trigonometry. This course satisfies the General Education Criteria for:Nat Sci & Tech - Phys SciencesQuantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/101"
+  },
+  {
+    "class-number": "PHYS 102",
+    "class-title": "College Physics: E&M & Modern",
+    "credits": "5 Hours Hours.",
+    "description": "Electric forces and fields, electric potential, electric circuits, magnetic forces and fields, geometrical optics, relativity,  and modern physics. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine. Credit is not given for both PHYS 102 and either PHYS 212 or PHYS 214. Prerequisite: PHYS 101. This course satisfies the General Education Criteria for:Nat Sci & Tech - Phys SciencesQuantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/102"
+  },
+  {
+    "class-number": "PHYS 110",
+    "class-title": "Physics Careers",
+    "credits": "0 Hours Hours.",
+    "description": "Exploration of careers founded on physics undergraduate training. Introduction to the Physics Department, faculty, research and curricula. Outside speaker presentations. Approved for S/U grading only.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/110"
+  },
+  {
+    "class-number": "PHYS 123",
+    "class-title": "Physics Made Easy",
+    "credits": "3 Hours Hours.",
+    "description": "Inquiry-based, nonmathematical, hands-on study of physics for elementary school teachers. Coverage of most of the National Science Education K-4 Content Standards. Additional fees may apply. See Class Schedule.This course satisfies the General Education Criteria for:Nat Sci & Tech - Phys Sciences",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/123"
+  },
+  {
+    "class-number": "PHYS 140",
+    "class-title": "How Things Work",
+    "credits": "3 Hours Hours.",
+    "description": "Nonmathematical approach underscoring the generality and ubiquity of basic physical laws in understanding commonplace phenomena: musical instruments, photography, electric and electronic circuits, television, motors, engines, etc. Credit is not given to engineering majors. This course satisfies the General Education Criteria for:Nat Sci & Tech - Phys SciencesQuantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/140"
+  },
+  {
+    "class-number": "PHYS 150",
+    "class-title": "Physics of Societal Issues",
+    "credits": "3 Hours Hours.",
+    "description": "Physics topics and applications relevant in the modern world: energy, quantum mechanics, electricity and magnetism, nuclear physics, waves, light, and outer space. Application to satellites, alternative energy, medical imaging, radiation, nuclear weapons, climate change, and electronics. Emphasis on analytical thinking and the applicability to modern societal issues.This course satisfies the General Education Criteria for:Nat Sci & Tech - Phys SciencesQuantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/150"
+  },
+  {
+    "class-number": "PHYS 192",
+    "class-title": "Science and Pseudoscience",
+    "credits": "1 Hour Hours.",
+    "description": "Extra-sensory perception, alien abduction, and psychic crime-solving from the standpoint of scientific inquiry and exploration; the scientific method, how science progresses, and the types of argumentative fallacies that pervade the pseudoscientific community; examples of good science and how the scientific method is self-correcting.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/192"
+  },
+  {
+    "class-number": "PHYS 193",
+    "class-title": "Physics of Music",
+    "credits": "2 Hours Hours.",
+    "description": "Physics of music and musical instruments; acoustical physics, propagation of sound waves, the biological physics of human hearing, and the acoustical physics associated with all types of musical instruments.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/193"
+  },
+  {
+    "class-number": "PHYS 194",
+    "class-title": "Behavior of Complex Systems",
+    "credits": "1 Hour Hours.",
+    "description": "Exploration of systems with simple rules that nevertheless exhibit complex behavior. Lecture demonstrations on fractal growth, chaos, catastrophes, self-assembly, lightning, turbulence, explosions, and human rhythms. Simple computer models which exhibit regular, irregular, symmetric, and self-similar patterns and dynamics. Dynamics of isolated and coupled complex systems and mathematical tools for quantifying complex behavior.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/194"
+  },
+  {
+    "class-number": "PHYS 199",
+    "class-title": "Undergraduate Open Seminar",
+    "credits": "0 to 5 Hours Hours.",
+    "description": "Approved for letter and S/U grading. May be repeated.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/199"
+  },
+  {
+    "class-number": "PHYS 211",
+    "class-title": "University Physics: Mechanics",
+    "credits": "4 Hours Hours.",
+    "description": "Newton's Laws, work and energy, static properties and fluids, oscillations, transverse waves, systems of particles, and rotations. A calculus-based approach for majors in engineering, mathematics, physics and chemistry. Credit is not given for both PHYS 211 and PHYS 101. Prerequisite: Credit or concurrent registration in MATH 231. This course satisfies the General Education Criteria for:Nat Sci & Tech - Phys SciencesQuantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/211"
+  },
+  {
+    "class-number": "PHYS 212",
+    "class-title": "University Physics: Elec & Mag",
+    "credits": "4 Hours Hours.",
+    "description": "Coulomb's Law, electric fields, Gauss' Law, electric potential, capacitance, circuits, magnetic forces and fields, Ampere's law, induction, electromagnetic waves, polarization, and geometrical optics. A calculus-based approach for majors in engineering, mathematics, physics, and chemistry. Credit is not given for both PHYS 212 and PHYS 102. Prerequisite: PHYS 211; credit or concurrent registration in MATH 241. This course satisfies the General Education Criteria for:Nat Sci & Tech - Phys SciencesQuantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/212"
+  },
+  {
+    "class-number": "PHYS 213",
+    "class-title": "Univ Physics: Thermal Physics",
+    "credits": "2 Hours Hours.",
+    "description": "First and second laws of thermodynamics including kinetic theory of gases, heat capacity, heat engines, introduction to entropy and statistical mechanics, and introduction to application of free energy and Boltzmann factor. A calculus-based approach for majors in engineering, mathematics, physics and chemistry. Credit is not given for both PHYS 213 and PHYS 101. Prerequisite: PHYS 211; credit or concurrent registration in MATH 241.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/213"
+  },
+  {
+    "class-number": "PHYS 214",
+    "class-title": "Univ Physics: Quantum Physics",
+    "credits": "2 Hours Hours.",
+    "description": "Interference and diffraction, photons and matter waves, the Bohr atom, uncertainty principle, and wave mechanics. A calculus-based course for majors in engineering, mathematics, physics, and chemistry. Credit is not given for both PHYS 214 and PHYS 102. Prerequisite: PHYS 212.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/214"
+  },
+  {
+    "class-number": "PHYS 221",
+    "class-title": "Enrichment Mechanics",
+    "credits": "1 Hour Hours.",
+    "description": "Supplement to PHYS 211 with a collaborative group learning approach to improving conceptual understanding and problem solving in introductory calculus-based mechanics. Prerequisite: PHYS 100; concurrent registration in PHYS 211.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/221"
+  },
+  {
+    "class-number": "PHYS 222",
+    "class-title": "Enrichment E & M",
+    "credits": "1 Hour Hours.",
+    "description": "Supplement to PHYS 212 with a collaborative group learning approach to improving conceptual understanding and problem solving in introductory calculus-based electricity & magnetism. Prerequisite: PHYS 100; concurrent registration in PHYS 212.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/222"
+  },
+  {
+    "class-number": "PHYS 225",
+    "class-title": "Relativity & Math Applications",
+    "credits": "2 Hours Hours.",
+    "description": "Theory of Special Relativity, with applications to kinematics and dynamics. Key mathematical methods as they apply to aspects of electromagnetic theory and classical mechanics, including vector analysis, series expansions, matrices, Fourier analysis, partial differentiation, three-dimensional calculus, and simple differential equations. Prerequisite: Credit or concurrent registration in PHYS 212.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/225"
+  },
+  {
+    "class-number": "PHYS 246",
+    "class-title": "Physics on the Silicon Prairie: An Introduction to Modern Computational Physics",
+    "credits": "2 Hours Hours.",
+    "description": "You will become a fearless code warrior, exploring the behaviors of systems that are too complicated for analytic characterization. You will calculate the trajectory of a relativistic starship and confirm an insight of Ramanujan, the \"Man Who Knew Infinity.\" You will generate diagrams of spacetime curvature near black holes and confirm that General Relativity causes the non-Newtonian behavior of Mercury's orbit. You will calculate \u03a0 using simulated grains of sand. There will be chaos, Monte Carlo simulations, and adaptive numerical integrations. Approved for Letter and S/U grading. Prerequisite: PHYS 211. Corequisites: MATH 231, PHYS 212, and PHYS 225. No prior programming experience is required. We welcome concurrent enrollment of high school students who meet the specified prerequisites.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/246"
+  },
+  {
+    "class-number": "PHYS 280",
+    "class-title": "Nuclear Weapons & Arms Control",
+    "credits": "3 Hours Hours.",
+    "description": "Nontechnical analysis of the physics of nuclear weapons, nuclear weapon effects, delivery systems, and defenses against nuclear attack; presentation of current issues; basis for making informed judgments about nuclear armaments and arms control. Same as GLBL 280.This course satisfies the General Education Criteria for:Advanced Composition",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/280"
+  },
+  {
+    "class-number": "PHYS 298",
+    "class-title": "First-Year/Sophomore Special Topics in Physics",
+    "credits": "0 to 4 Hours Hours.",
+    "description": "Topical offerings of technical interest, skills, and knowledge in physics, and its practice, intended to augment the existing curriculum at the introductory level. Approved for Letter and S/U grading. May be repeated in separate terms up to 12 credit hours if topics vary. Prerequisite: See Class Schedule or departmental course information for topics and prerequisites. For students with first-year or sophomore standing.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/298"
+  },
+  {
+    "class-number": "PHYS 325",
+    "class-title": "Classical Mechanics I",
+    "credits": "3 Hours Hours.",
+    "description": "Kinematics and dynamics of classical systems, including a review of Newtonian kinematics and dynamics. Three dimensional motion, variable mass, and conservation laws; damped and periodically driven oscillations; gravitational potential of extended objects and motion in rotating frames of reference; Lagrangian and Hamiltonian mechanics. Prerequisite: PHYS 225; credit or concurrent registration in MATH 285 or MATH 286.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/325"
+  },
+  {
+    "class-number": "PHYS 326",
+    "class-title": "Classical Mechanics II",
+    "credits": "3 Hours Hours.",
+    "description": "Continuation of PHYS 325. Central force motion, collisions and scattering, rotational motion, coupled oscillations, continuous media, and fluid dynamics. Prerequisite: PHYS 325.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/326"
+  },
+  {
+    "class-number": "PHYS 329",
+    "class-title": "Atmospheric Dynamics I",
+    "credits": "3 Hours Hours.",
+    "description": "Same as ATMS 302. See ATMS 302.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/329"
+  },
+  {
+    "class-number": "PHYS 330",
+    "class-title": "Atmospheric Dynamics II",
+    "credits": "3 Hours Hours.",
+    "description": "Same as ATMS 312. See ATMS 312.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/330"
+  },
+  {
+    "class-number": "PHYS 370",
+    "class-title": "Introduction to Quantum Information and Computing",
+    "credits": "3 Hours Hours.",
+    "description": "Introduction to quantum information and computing for sophomores, juniors and seniors from any major. Self-contained description of quantum states and qubits, operators, measurements, tensor products, density matrices, quantum gates and circuits, and quantum computing/simulation algorithms. One of the key points of departure from classical physics, quantum entanglement, is threaded throughout all these topics including a dedicated discussion of Bell's theorem. Students will apply these basic aspects of quantum mechanics to program online quantum computers (e.g., IBM cloud) to gain insight into canonical algorithms such as Deutsch-Jozsa, Shor, and/or Grover as well as standard protocols such as teleportation and entanglement swapping. Prerequisite: PHYS 214.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/370"
+  },
+  {
+    "class-number": "PHYS 371",
+    "class-title": "Project Design and Execution in a Physics Context",
+    "credits": "3 Hours Hours.",
+    "description": "Becoming the fearless toolsmith: you will address a real-world problem with your physicist\u2019s insight and the tools of electrical and mechanical engineers. There will be IDEs and PCBs and 3-D printers, and the remarkable experience of working collaboratively alongside fellow students and course staff. Prerequisite: PHYS 212; CS 101 or CS 124 or PHYS 246, or else extensive experience with programming a high-level computer language obtained elsewhere.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/371"
+  },
+  {
+    "class-number": "PHYS 394",
+    "class-title": "Pedagogy and Teaching Physics for Learning Assistants",
+    "credits": "2 Hours Hours.",
+    "description": "Designed to support Learning Assistants (LAs) who are working as instructional aids in lab or discussion sections of the introductory physics courses. Students will study pedagogical strategies for instructor-student interaction and philosophies guiding lab design and/or discussion problem creation. Prerequisite: Instructor Approval Required. Lab LAs must have successfully completed PHYS 101, PHYS 102, PHYS 211, or PHYS 212. Discussion LAs must have successfully completed PHYS 100 and PHYS 211.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/394"
+  },
+  {
+    "class-number": "PHYS 395",
+    "class-title": "Studies on the Pedagogy and Structure of the Physics Learning Assistant Program",
+    "credits": "1 Hour Hours.",
+    "description": "Designed for students who have been Learning Assistants (LAs) in the lab sections of the introductory physics courses or in discussion sections of PHYS 100 and who have successfully completed PHYS 394. The goal of the course is to provide students the opportunity to pursue their interest in the Learning Assistant program by continuing working as assistants in the lab or discussions sections of the introductory physics courses and at the same time conduct a study on the program. At the end of the semester students present their work at the Expert LA symposium. May be repeated if topics vary, to a maximum of 2 credit hours. Prerequisite: PHYS 394.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/395"
+  },
+  {
+    "class-number": "PHYS 398",
+    "class-title": "Sophomore/Junior Special Topics in Physics",
+    "credits": "1 to 4 Hours Hours.",
+    "description": "Topical offerings of technical interest, skills, and knowledge in physics, and its practice, intended to augment the existing curriculum at the intermediate level. Approved for Letter and S/U grading. May be repeated in separate terms up to 12 hours if topics vary. Prerequisite: See Class Schedule or departmental course information for topics and prerequisites. For students with sophomore or junior standing.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/398"
+  },
+  {
+    "class-number": "PHYS 401",
+    "class-title": "Classical Physics Lab",
+    "credits": "3 Hours Hours.",
+    "description": "Experiments and techniques in classical mechanics and electromagnetism. Dynamics of electrical and mechanical oscillators in the linear domain. Fourier analysis of system response. Measurements of electrostatic fields, transmission lines, waves, and radiation. Electromagnetic phenomena in dielectrics, conductors, and magnetic materials. Instruction in data analysis and report writing. 3 undergraduate hours. 3 graduate hours. Prerequisite: PHYS 325; credit or concurrent enrollment in PHYS 435 or ECE 329.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/401"
+  },
+  {
+    "class-number": "PHYS 402",
+    "class-title": "Light",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Wave kinematics; geometrical optics: basic concepts, ray-tracing and matrix formalism, Gaussian imaging by thick lenses, stops, apertures, and intensity relations; interference; interference spectroscopy and coherence; diffraction: Fresnel-Kirchhoff formulation, Fraunhofer case, Fresnel case, and holography; polarized light. 4 undergraduate hours. 3 or 4 graduate hours. (3 hours without lab). Prerequisite: PHYS 214 and PHYS 435 or ECE 329.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/402"
+  },
+  {
+    "class-number": "PHYS 403",
+    "class-title": "Modern Experimental Physics",
+    "credits": "4 or 5 Hours Hours.",
+    "description": "Techniques and experiments in the physics of atoms, atomic nuclei, molecules, the solid state, and other areas of modern physical research. 5 undergraduate hours. 4 graduate hours. Prerequisite: Credit or concurrent registration in PHYS 485 or PHYS 486.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/403"
+  },
+  {
+    "class-number": "PHYS 404",
+    "class-title": "Electronic Circuits",
+    "credits": "4 or 5 Hours Hours.",
+    "description": "Physics of semiconductor devices; theory and application of discrete and integrated devices in linear circuits; use of operational amplifiers and feedback; regulation, oscillators, and modulation; emphasizes practical experience. 5 undergraduate hours. 4 graduate hours. Prerequisite: PHYS 325.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/404"
+  },
+  {
+    "class-number": "PHYS 406",
+    "class-title": "Acoustical Physics of Music",
+    "credits": "4 Hours Hours.",
+    "description": "Acoustical physics associated with music and musical instruments, propagation of sound waves in and from musical instruments, and the biological physics of human hearing. Investigation of topics via advanced laboratory and data acquisition techniques. 4 undergraduate hours. 4 graduate hours. Prerequisite: PHYS 213 and PHYS 214.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/406"
+  },
+  {
+    "class-number": "PHYS 407",
+    "class-title": "Experimental Biological Physics",
+    "credits": "4 Hours Hours.",
+    "description": "For advanced undergraduate and graduate students in Physics interested in the connection between biology and physics (no prior biology experience needed). This course explores Nobel Prize-winning experiments in biological physics and quantitative biology. Students will learn important techniques, including: optical imaging beyond the diffraction limit; optical trapping of microorganisms and subcellular structures; optical detection using nitrogen vacancy centers; molecular biology and statistical analyses for testing evolutionary models; and computational prediction of protein folding. 4 undergraduate hours. 4 graduate hours. The course requires intermediate background in statistics and basic coding skills in Python or Matlab. Prerequisite: PHYS 213, PHYS 214, and PHYS 325 or equivalent; CS 101 or CS124 or equivalent. This course is meant for undergraduate students of junior or senior standing, or graduate students in physics.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/407"
+  },
+  {
+    "class-number": "PHYS 419",
+    "class-title": "Space, Time, and Matter-ACP",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Identical to PHYS 420 except for the additional writing component including a final term paper. Same as PHIL 419. 3 undergraduate hours. 4 graduate hours. Credit is not given for both PHYS 419 and PHYS 420. Prerequisite: PHIL 101; PHYS 101 or PHYS 211.This course satisfies the General Education Criteria for:Advanced Composition",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/419"
+  },
+  {
+    "class-number": "PHYS 420",
+    "class-title": "Space, Time, and Matter",
+    "credits": "2 Hours Hours.",
+    "description": "Philosophical examination of some fundamental concepts and theories of the physical world, such as time, matter, space, and geometry; interpretation of quantum theory. Same as PHIL 420. 2 undergraduate hours. 2 graduate hours. Credit is not given for both PHYS 420 and PHYS 419. Prerequisite: PHIL 101; PHYS 101 or PHYS 211.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/420"
+  },
+  {
+    "class-number": "PHYS 427",
+    "class-title": "Thermal & Statistical Physics",
+    "credits": "4 Hours Hours.",
+    "description": "Equilibrium thermodynamics, statistical mechanics, and kinetic theory of gases. A unified treatment is used in that the principles of heat and thermodynamics are discussed along with statistical postulates and the microscopic approach of introductory quantum mechanics. 4 undergraduate hours. 4 graduate hours. Credit is not given for both PHYS 427 and any of ME 404, CHEM 444, MSE 500. Prerequisite: PHYS 213; PHYS 214; PHYS 435 or ECE 329.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/427"
+  },
+  {
+    "class-number": "PHYS 435",
+    "class-title": "Electromagnetic Fields I",
+    "credits": "3 Hours Hours.",
+    "description": "Static electric and magnetic fields, their interactions with electric charge and current, and their transformation properties; the effect of special relativity is incorporated. Macroscopic fields in material media are described. Register for the lecture and one of the discussion sections. 3 undergraduate hours. 3 graduate hours. Prerequisite: MATH 285 and PHYS 325. Credit or concurrent enrollment in MATH 257 or MATH 416.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/435"
+  },
+  {
+    "class-number": "PHYS 436",
+    "class-title": "Electromagnetic Fields II",
+    "credits": "3 Hours Hours.",
+    "description": "Time-dependent fields. Electromagnetic induction, Maxwell's equations, electromagnetic wave propagation in various media and structures, and electromagnetic radiation from charge and current distributions. Relativistic covariance of Maxwell's equations. Course Information:3 undergraduate hours. 3 graduate hours. Prerequisite: PHYS 435.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/436"
+  },
+  {
+    "class-number": "PHYS 446",
+    "class-title": "Modern Computational Physics",
+    "credits": "3 Hours Hours.",
+    "description": "This is an immersive advanced computational physics course. The goals in this class are to program from scratch, simulate, and understand the physics within a series of multi-week projects spanning areas such as quantum computing, statistical mechanics, the renormalization group, machine learning, and topological insulators. The course approach (lectures, one-on-one interaction in class, etc.) is centered around giving you the information and skills you need to succeed in carrying out these projects. 3 undergraduate hours. No graduate credit. Prerequisite: PHYS 246.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/446"
+  },
+  {
+    "class-number": "PHYS 460",
+    "class-title": "Condensed Matter Physics",
+    "credits": "4 Hours Hours.",
+    "description": "Bonding and structure of crystals; energy bands in insulators, semiconductors, and metals; electrical conductivity; optical properties; lattice vibrations; elasticity; point defects; dislocations. 4 undergraduate hours. 4 graduate hours. Credit is not given for both PHYS 460 and MSE 304. Prerequisite: PHYS 435; PHYS 485 or PHYS 486.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/460"
+  },
+  {
+    "class-number": "PHYS 466",
+    "class-title": "Atomic Scale Simulations",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Same as CSE 485 and MSE 485. See MSE 485.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/466"
+  },
+  {
+    "class-number": "PHYS 470",
+    "class-title": "Subatomic Physics",
+    "credits": "4 Hours Hours.",
+    "description": "The nature and properties of nuclei and elementary particles, symmetries, interactions, nuclear models, tools and techniques of experimental subatomic physics, and applications to power generation, astrophysics, chemistry, medicine, and biology. 4 undergraduate hours. 4 graduate hours. Prerequisite: PHYS 485 or PHYS 486.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/470"
+  },
+  {
+    "class-number": "PHYS 475",
+    "class-title": "Introduction to Biophysics",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Major concepts of physics inherent to biological systems. Basics of biology, including protein and DNA structure and their organization into cells with a focus on single molecule biophysics. Major experimental techniques including x-ray diffraction, optical and magnetic traps, and fluorescence microscopy, including new super-resolution techniques. Applications to cytoplasmic and nuclear molecular motors, bacterial motion, nerves, and vision. 3 undergraduate hours. 4 graduate hours. Prerequisite: PHYS 213 and PHYS 214.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/475"
+  },
+  {
+    "class-number": "PHYS 485",
+    "class-title": "Atomic Phys & Quantum Theory",
+    "credits": "3 Hours Hours.",
+    "description": "Basic concepts of quantum theory which underlie modern theories of the properties of materials; elements of atomic and nuclear theory; kinetic theory and statistical mechanics; quantum theory and simple applications; atomic spectra and atomic structure; molecular structure and chemical binding. 3 undergraduate hours. 3 graduate hours. Credit is not given for both PHYS 485 and CHEM 442. Prerequisite: PHYS 325. Credit or concurrent registration in PHYS 435.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/485"
+  },
+  {
+    "class-number": "PHYS 486",
+    "class-title": "Quantum Physics I",
+    "credits": "4 Hours Hours.",
+    "description": "Atomic phenomena integrated with an introduction to quantum theory; evidence for the atomic nature of matter and the properties of the Schrodinger equation, single particle solutions in one dimension, the hydrogen atom, perturbation theory, external fields, and atomic spectroscopy of outer electrons. 4 undergraduate hours. 4 graduate hours. Prerequisite: PHYS 214 and PHYS 435 or ECE 329.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/486"
+  },
+  {
+    "class-number": "PHYS 487",
+    "class-title": "Quantum Physics II",
+    "credits": "4 Hours Hours.",
+    "description": "Continuation of PHYS 486. Identical particles, spectral hyperfine structure, magnetic properties of matter, atomic spectroscopy of inner electrons, high-energy photon effects, molecular binding and spectra, emission and absorption of light, and symmetry principles. 4 undergraduate hours. 4 graduate hours. Prerequisite: PHYS 486.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/487"
+  },
+  {
+    "class-number": "PHYS 495",
+    "class-title": "Where the Arts Meets Physics",
+    "credits": "3 Hours Hours.",
+    "description": "A project-based, cross-disciplinary course for students interested in exposure to the frontiers of physics and experiences in the arts. Students will explore physics topics through active participation in a broad range of artistic practices and expressions. Students will practice project design; independent study; team work; and dedicated assignments. Projects will be presented through an end-of-semester event. Event and topics are specific to each offering and may include physics-based museum exhibits, artistic work, and/or performance pieces. 3 undergraduate hours. 3 graduate hours. May be repeated up to 6 hours in separate semesters, if topics vary. Prerequisite: Instructor Approval Required.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/495"
+  },
+  {
+    "class-number": "PHYS 496",
+    "class-title": "Communicating in Physics\u2014Writing Papers and Giving Talks",
+    "credits": "3 Hours Hours.",
+    "description": "Examination of current research topics through extensive reading, writing, and oral-presentation activities. 3 undergraduate hours. No graduate credit.This course satisfies the General Education Criteria for:Advanced Composition",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/496"
+  },
+  {
+    "class-number": "PHYS 497",
+    "class-title": "Individual Study",
+    "credits": "1 to 4 Hours Hours.",
+    "description": "Individual study at an advanced level in a subject not covered by course offerings. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/497"
+  },
+  {
+    "class-number": "PHYS 498",
+    "class-title": "Special Topics in Physics",
+    "credits": "1 to 4 Hours Hours.",
+    "description": "Subject offerings of new and developing areas of knowledge in physics intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated in the same or separate terms if topics vary.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/498"
+  },
+  {
+    "class-number": "PHYS 499",
+    "class-title": "Senior Thesis",
+    "credits": "3 Hours Hours.",
+    "description": "Faculty-guided writing of a senior thesis involving independent research Oral presentations of research and outside journal articles, proposal writing and reviewing, poster presentation, preparation of graduate school applications, and discussion of physics frontiers with outside experts. 3 undergraduate hours. No graduate credit. Prerequisite: PHYS 496.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/499"
+  },
+  {
+    "class-number": "PHYS 503",
+    "class-title": "Instrumentation Physics Applications of Machine Learning",
+    "credits": "4 Hours Hours.",
+    "description": "Designed to give students a solid foundation in machine learning applications to physics, positioning itself at the intersection of machine learning and data-intensive science. This course will introduce students to the fundamentals of analysis and interpretation of scientific data, and applications of machine learning to problems common in laboratory science such as classification and regression. There will be two 75-minute classes each week, split into discussions of core principles and hands-on exercises involving coding and data. There will be a few projects throughout semester that will build on the course material and utilize open source software and open data in physics and related fields. The list of topics will evolve, according to the interests of the class and instructors. Material will be clustered into units of varying duration, as indicated below. The lists of suggested readings and references are advisory; a large amount of material of excellent quality is now available on the worldwide web, particularly on the sites of university courses addressing the topics of each unit. A distinguishing feature of this course is its sharp focus on endeavors in the data-rich physical sciences as the arenas in which modern machine learning techniques are taught. The course uses open scientific data, open source software from data science and physics-related fields, and publicly-available information as enabling elements. Research-inspired projects are an important part of the course and students will not only execute them but will play an active role in helping define and shape them. Example projects might include machine learning approaches to searches for new particles or interactions at high-energy colliders; methods of particle tracking and reconstruction; identification, classification and measurement of astrophysical phenomena; novel approaches to medical imaging and simulation using techniques from physics and machine learning; machine learning in quantum information science. Through these projects and the course material, students will learn how large datasets in physics are generated, curated, and analyzed, using machine learning as a tool to generate key insights in both experimental and theoretical science. 4 graduate hours. No professional credit. Prerequisite: Familiarity with a high-level computing language such as C++, Python, or Java; mathematical competence typical of graduates (either as majors or minors) from undergraduate programs in Physics and Astronomy. Primarily for students in the Engineering: Instrumentation and Applied Physics, MEng program. Other students may enroll with permission of the M.Eng. program director.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/503"
+  },
+  {
+    "class-number": "PHYS 504",
+    "class-title": "Statistical Physics",
+    "credits": "4 Hours Hours.",
+    "description": "Single-particle distribution functions; classical and quantum mechanical systems, Boltzmann equation, virial theorem, and equations of state for gases; formal theory: ensembles, identical particles, thermodynamics of simple systems, and distribution functions; nonequilibrium problems; conservation laws and hydrodynamic equations, sound waves, and transport coefficients; plasmas, normal Fermi fluid, superfluids, and systems with internal degrees of freedom. Prerequisite: PHYS 427 and PHYS 486.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/504"
+  },
+  {
+    "class-number": "PHYS 505",
+    "class-title": "Classical Electromagnetism",
+    "credits": "4 Hours Hours.",
+    "description": "Review of Maxwell's equations; relativistic formulation of the electromagnetic field and the motion of charged particles; plane and guided waves; retarded potentials; radiation from simple antennas; radiation from accelerated charged particles; scattering and further topics. Prerequisite: PHYS 436.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/505"
+  },
+  {
+    "class-number": "PHYS 508",
+    "class-title": "Mathematical Physics I",
+    "credits": "4 Hours Hours.",
+    "description": "Core techniques of mathematical physics widely used in the physical sciences. Calculus of variations and its applications; partial differential equations of mathematical physics (including classification and boundary conditions); separation of variables, series solutions of ordinary differential equations and Sturm-Liouville eigenproblems; Legendre polynomials, spherical harmonics, Bessel functions and their applications; normal mode eigenproblems (including the wave and diffusion equations); inhomogeneous ordinary differential equations (including variation of parameters); inhomogeneous partial differential equations and Green functions; potential theory; integral equations (including Fredholm theory). Prerequisite: MATH 285.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/508"
+  },
+  {
+    "class-number": "PHYS 509",
+    "class-title": "Mathematical Physics II",
+    "credits": "4 Hours Hours.",
+    "description": "Continuation of PHYS 508. Further core techniques of mathematical physics widely used in the physical sciences. Complex variables; group theory in classical and quantum systems; tensors in physics; differential forms and their applications in mechanics; electromagnetism. Prerequisite: PHYS 508.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/509"
+  },
+  {
+    "class-number": "PHYS 510",
+    "class-title": "Nonlinear Dynamics",
+    "credits": "4 Hours Hours.",
+    "description": "Broad introduction to nonlinear dynamics of physical systems with varying degrees of complexity; survey of a variety of concepts associated with bifurcation phenomena, mappings, nonlinear oscillations, chaotic behavior, strange attractors, and solitons. Topics of current interest. Prerequisite: PHYS 326.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/510"
+  },
+  {
+    "class-number": "PHYS 513",
+    "class-title": "Quantum Optics & Information",
+    "credits": "4 Hours Hours.",
+    "description": "Experimental and theoretical fundamentals of quantum information, using nonclassical features of quantum physics (wave-particle duality, superposition, and entanglement) to surpass the information-processing capabilities of classical systems. Underlying fundamental quantum phenomena, including tests of nonlocality, quantum erasers, the quantum Zeno effect, squeezed light, multi-particle interference, state transformations of the Bloch sphere, and decoherence; quantum cryptography and teleportation; quantum information theory; quantum computation algorithms and techniques for error correction; experimental \"qubit\" systems. 4 graduate hours. No professional credit. Prerequisite: PHYS 486 is recommended.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/513"
+  },
+  {
+    "class-number": "PHYS 514",
+    "class-title": "Modern Atomic Physics",
+    "credits": "4 Hours Hours.",
+    "description": "Rigorous survey of modern atomic, molecular, and optical physics, including a functional approach to theory and an overview of experimental techniques. Atomic structure, including fine and hyperfine structure, multi-electron atoms, and relativistic effects; interaction of single atoms with dynamic and static electromagnetic fields, ultra-cold collisions between atoms; laser cooling, evaporative cooling, and magnetic trapping; Paul and Penning traps; quantum degenerate gases; atom interferometry. Prerequisite: PHYS 427, PHYS 436, and PHYS 487.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/514"
+  },
+  {
+    "class-number": "PHYS 515",
+    "class-title": "General Relativity I",
+    "credits": "4 Hours Hours.",
+    "description": "Systematic introduction to Einstein's theory, with emphasis on modern coordinate-free methods of computation. Review of special relativity, modern differential geometry, foundations of general relativity, laws of physics in the presence of a gravitational field, linearized theory, and experimental tests of gravitation theories. Same as ASTR 515. Prerequisite: PHYS 436.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/515"
+  },
+  {
+    "class-number": "PHYS 516",
+    "class-title": "General Relativity II",
+    "credits": "4 Hours Hours.",
+    "description": "Continuation of PHYS 515 with emphasis on applications to astrophysics and cosmology. Relativistic stars, gravitational collapse, black holes, gravitational waves, numerical relativity, and cosmology. Same as ASTR 516. Prerequisite: PHYS 515.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/516"
+  },
+  {
+    "class-number": "PHYS 523",
+    "class-title": "Instrumentation and Applied Physics Project",
+    "credits": "4 Hours Hours.",
+    "description": "In this two-semester course students will engage in the collaborative design and execution of a year-long Instrumentation and measurement-intensive technical project. Required activities will include a written project proposal of work to be undertaken, informal group-generated oral presentations on technical issues, periodic formal written progress reports, a final project oral presentation, and a final project paper. The set of projects might include investigations suggested by industry partners. There will be two class meetings per week, each of three hours duration. In addition to the project work, we will bring in local experts to discuss a number of relevant topics with the class; these are shown in the syllabus, below. Note that readings will consist primarily of technical materials and documentation by the producers of components used by individual projects. As a result, readings and external materials will vary from group to group. 4 graduate hours. No professional credit. May be repeated in separate terms to a total of 8 hours. Prerequisite: Students must enroll in consecutive fall and spring semesters to meet the requirements of the Concentration in Instrumentation and Applied Physics under the Master of Engineering in Engineering degree. Primarily for students in the Engineering: Instrumentation and Applied Physics, MEng program. Other students may enroll with permission of the M.Eng. program director.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/523"
+  },
+  {
+    "class-number": "PHYS 524",
+    "class-title": "Survey of Instrumentation and Laboratory Techniques",
+    "credits": "2 Hours Hours.",
+    "description": "Introduce students to a broader spectrum of devices than they can be expected to encounter in their Physics 523 projects. The goal of the course is to familiarize students with some of the techniques available to them when defining and proposing a technical project in an unfamiliar domain. There will be two 50 minute classes each week, split into a discussion of basic principles and a simple hands-on laboratory exercise. The list of topics\u2014which is not intended to be exhaustive\u2014will evolve, according to the interests of the class and instructors. Material will be clustered into units of varying duration, as indicated below. The lists of suggested readings and references are advisory; a large amount of material of excellent quality is now available on the worldwide web, particularly on the sites of university courses addressing the topics of each unit. There are no formal prerequisites other than prior completion of a rigorous undergraduate major (or minor) in physics, astronomy, or a related field. 2 graduate hours. No professional credit. Prerequisite: Primarily for students in the Engineering: Instrumentation and Applied Physics, MEng program. Other students may enroll with permission of the M.Eng. program director.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/524"
+  },
+  {
+    "class-number": "PHYS 525",
+    "class-title": "Survey of Fundamental Device Physics",
+    "credits": "2 Hours Hours.",
+    "description": "Introduces students to the underlying physical principles employed by various devices. As in Physics 524, we will introduce students to a broader spectrum of device principles than they will encounter in their Physics 523 projects. There will be two 50 minute classes each week, split into discussion and laboratory exercises. The list of topics\u2014which is not intended to be exhaustive\u2014will evolve, according to the interests of the class and instructors. Material will be clustered into units of varying duration, as indicated below. The lists of suggested readings and references are advisory; a large amount of material of excellent quality is now available on the worldwide web, particularly on the sites of university courses addressing the topics of each unit. There are no formal prerequisites other than prior completion of a rigorous undergraduate major (or minor) in physics, astronomy, or a related field. 2 graduate hours. No professional credit. Prerequisite: Primarily for students in the Engineering: Instrumentation and Applied Physics, MEng program. Other students may enroll with permission of the M.Eng. program director.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/525"
+  },
+  {
+    "class-number": "PHYS 535",
+    "class-title": "Physics-inspired Statistical Data Analysis and Machine Learning",
+    "credits": "4 Hours Hours.",
+    "description": "Covers the theoretical foundation of machine learning using ideas from functional analysis, spectral graph theory, stochastic processes and other branches of physics. The emphasis is on modern physics-inspired mathematical, statistical and Monte Carlo methods for analyzing scientific data. Topics to be covered include review of linear algebra and Hilbert space, spectral graph theory, clustering methods, dimensional reduction techniques, Reproducing Kernel Hilbert Space, kernel embedding, Grassmannian manifolds, matrix and tensor decompositions, stochastic sampling methods, numerical optimization, cross entropy method, Markov Chain Monte Carlo, and Gaussian Process. 4 graduate hours. No professional credit. Prerequisite: Strong background in linear algebra, analysis, statistical mechanics, classical mechanics, and quantum mechanics.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/535"
+  },
+  {
+    "class-number": "PHYS 540",
+    "class-title": "Astrophysics",
+    "credits": "4 Hours Hours.",
+    "description": "Fundamental aspect of astrophysics and cosmology and new developments in these fields. Basic physical concepts and principles, the key observational evidence, and illustrative calculations. Relativistic cosmological models, inflation, Big-Bang nucleosynthesis, and the cosmic microwave background; formation and evolution of galaxy clusters, galaxies, and stars; formation, structure, and evolution of white dwarfs, neutron stars, and black holes; rotation- and accretion-powered pulsars, X-ray and y-ray stars, and gravitational radiation. Same as ASTR 540. Prerequisite: PHYS 435; PHYS 485 or PHYS 486.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/540"
+  },
+  {
+    "class-number": "PHYS 541",
+    "class-title": "Physics of Compact Objects",
+    "credits": "4 Hours Hours.",
+    "description": "Rigorous survey of the physical properties of black holes, white dwarfs, and neutron stars. Formation of compact objects. Equilibrium configurations, equations of state, stability criteria, and mass limits: the influence of rotation and magnetic fields. Pulsar phenomena. Black hole spacetimes. Hawking radiation. Mass flow in binary systems; spherical and disk accretion; high-temperature radiation processes; pulsar spin-up. Compact x-ray sources and x-ray bursts. Supermassive black holes in star clusters and dense galactic nuclei. Gravitational and neutrino radiation from supernova collapse and binary coalescence. Same as ASTR 541. Prerequisite: PHYS 436.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/541"
+  },
+  {
+    "class-number": "PHYS 542",
+    "class-title": "Theoretical Stellar Physics",
+    "credits": "4 Hours Hours.",
+    "description": "Same as ASTR 504. See ASTR 504.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/542"
+  },
+  {
+    "class-number": "PHYS 550",
+    "class-title": "Biomolecular Physics",
+    "credits": "4 Hours Hours.",
+    "description": "Physical concepts governing the structure and function of biological macromolecules; general properties, spatial structure, energy levels, dynamics and functions, and relation to other complex physical systems such as glasses; recent research in biomolecular physics; physical techniques and concepts from theoretical physics emphasized. Same as BIOP 550 and MCB 550. Prerequisite: CHEM 104; PHYS 485 or PHYS 487.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/550"
+  },
+  {
+    "class-number": "PHYS 552",
+    "class-title": "Optical Spectroscopy",
+    "credits": "4 Hours Hours.",
+    "description": "Theoretical and experimental fundamentals of optical spectroscopy. Light-matter interaction (absorption of UV, visible, IR), emission spectroscopy (fluorescence, Raman and light scattering), theoretical backgrounds of molecular electronic and vibrational transitions, modern experimental techniques, and data analysis of the optical spectroscopy experiments. Laboratory exercises applying spectroscopy to a broad spectrum of disciplines, including biophysical examples. Prerequisite: PHYS 427 and PHYS 487.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/552"
+  },
+  {
+    "class-number": "PHYS 554",
+    "class-title": "Nonequilibrium Stat Mechanics",
+    "credits": "4 Hours Hours.",
+    "description": "Mathematical description of classical and quantum stochastic systems, thoroughly addressing the tools and the mode of thinking of non-equilibrium statistical mechanics. Equilibrium statistical mechanics (review); Einstein and Smoluchowski diffusion equation; generalized moment expansion of correlation functions; noise-induced limit cycles; time series analysis; diffusion-controlled reactions; classical dynamics under the influence of stochastic forces; observables connected with Brownian transport, echoes, and hysteresis; spin-boson model. Examples from biological physics and theoretical condensed matter physics. Prerequisite: PHYS 504.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/554"
+  },
+  {
+    "class-number": "PHYS 560",
+    "class-title": "Condensed Matter Physics I",
+    "credits": "4 Hours Hours.",
+    "description": "Crystalline perfection, free-electron gas, screening, plasma oscillations, and dielectric response; Bloch electrons, Brillouin zones, and band structure; semiconductors, intrinsic and extrinsic, with applications; phonons, elasticity, and anharmonicity; ferromagnetism and second-order phase transitions; superconductivity. Prerequisite: PHYS 427 and PHYS 580.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/560"
+  },
+  {
+    "class-number": "PHYS 561",
+    "class-title": "Condensed Matter Physics II",
+    "credits": "4 Hours Hours.",
+    "description": "Hartree-Fock theory and electron-electron interactions; electron-phonon interactions; electron dynamics and transport; BCS theory of superconductivity; elastic properties; thermal properties due to anharmonicity; defects in solids. Prerequisite: PHYS 560 and PHYS 581.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/561"
+  },
+  {
+    "class-number": "PHYS 563",
+    "class-title": "Phase Transitions",
+    "credits": "4 Hours Hours.",
+    "description": "Phenomenology of phase transitions, scaling, critical behavior, and multi-criticality; Landau theory of phase transitions; renormalization group methods, including lattice models and epsilon-expansion; numerical methods; critical dynamics; selected additional topics. Prerequisite: PHYS 504.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/563"
+  },
+  {
+    "class-number": "PHYS 565",
+    "class-title": "Theory of Semicond & Devices",
+    "credits": "4 Hours Hours.",
+    "description": "Same as ECE 535. See ECE 535.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/565"
+  },
+  {
+    "class-number": "PHYS 569",
+    "class-title": "Emergent States of Matter",
+    "credits": "4 Hours Hours.",
+    "description": "Consequences of broken symmetry in condensed matter, the emergence of novel ground states, and the nature of the excitations that arise. Examination of specific systems such as superconductivity, superfluidity, Bose-Einstein condensates, the quantum Hall states, liquid crystals, biological systems and patterns in Rayleigh-Benard convection. Prerequisite: PHYS 504 and PHYS 580.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/569"
+  },
+  {
+    "class-number": "PHYS 570",
+    "class-title": "Subatomic Physics",
+    "credits": "4 Hours Hours.",
+    "description": "Nuclear systematics, nucleon-nucleon interaction, shell model, and single-particle and collective excitations; hadron spectroscopy, hadronic quantum numbers, quark-parton model, and hadron dynamics; weak interactions. Prerequisite: PHYS 580; concurrent registration in PHYS 581.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/570"
+  },
+  {
+    "class-number": "PHYS 575",
+    "class-title": "Particle Physics I",
+    "credits": "4 Hours Hours.",
+    "description": "Basic calculations in elementary particle theory. Quantum electrodynamics, quantum chromodynamics, and the Glashow-Weinberg-Salam theory of weak and electromagnetic interactions as applied to the phenomenology of particle decays and high energy reactions. 4 graduate hours. No professional credit. Prerequisite: Recommended: credit or concurrent registration in PHYS 582.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/575"
+  },
+  {
+    "class-number": "PHYS 576",
+    "class-title": "Particle Physics II",
+    "credits": "4 Hours Hours.",
+    "description": "Continuation of PHYS 575. Current topics in particle theory. Typically three or four different subjects in depth which may change with each offering. Prerequisite: PHYS 575.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/576"
+  },
+  {
+    "class-number": "PHYS 580",
+    "class-title": "Quantum Mechanics I",
+    "credits": "4 Hours Hours.",
+    "description": "Second course in quantum mechanics. Operators, state vectors, and the formal structure of quantum theory; operator treatments of simple systems; angular momentum and vector addition coefficients; stationary state perturbation theory; introduction to scattering theory for particles without spin, partial wave analysis, and Born approximation; examples taken from atomic, nuclear, and elementary particle physics. Prerequisite: PHYS 485 or PHYS 487.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/580"
+  },
+  {
+    "class-number": "PHYS 581",
+    "class-title": "Quantum Mechanics II",
+    "credits": "4 Hours Hours.",
+    "description": "Spin and identical particles, simple many-particle systems and elements of second-quantization theory; time-dependent processes, radiative transitions, and quantization of the electromagnetic field; scattering of particles with spin; polarization; introduction to the Klein-Gordon and Dirac equations and properties of simple relativistic systems. Prerequisite: PHYS 580.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/581"
+  },
+  {
+    "class-number": "PHYS 582",
+    "class-title": "General Field Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Standard techniques of field theory as used by experimenters and theorists; relativistic quantum mechanics of a single particle; Lagrangian field theories, perturbation theory, and calculation of lowest-order processes; introduction to Feynman diagrams and higher order processes; examples taken from quantum electrodynamics, solid-state and elementary particle physics, and many-body theory. Prerequisite: PHYS 581.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/582"
+  },
+  {
+    "class-number": "PHYS 583",
+    "class-title": "Advanced Field Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Quantization and Feynman path integral; gauge theories and renormalization; renormalization group with applications to particle physics and critical phenomena; approximation methods and recent developments. Prerequisite: PHYS 582.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/583"
+  },
+  {
+    "class-number": "PHYS 590",
+    "class-title": "Secondary Physics Curriculum Design for In-Service Teachers I",
+    "credits": "3 Hours Hours.",
+    "description": "First course of three physics curriculum design courses for in-service high school physics educators. Introduction to pedagogies and materials used in the introductory Physics courses at U of I, and their development. Adaptation and integration of these pedagogies and materials into the unique needs of the high school classroom. Reading and reflection on education research literature. Topics include: equitable grading; purposeful design and development of learning cycles to develop students\u2019 deeper learning of physics concepts. 3 graduate hours. No professional credit. Prerequisite: Must be an in-service high school teacher who typically carries 1 or more physics preps on their course schedule.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/590"
+  },
+  {
+    "class-number": "PHYS 591",
+    "class-title": "Secondary Physics Curriculum Design for In-Service Teachers II",
+    "credits": "3 Hours Hours.",
+    "description": "Continuation of PHYS 590 with instructional focus on spring semester content. Continued curricular material development through selectively adapting and integrating pedagogies and instructional materials used in the introductory Physics courses at U of I into their unique high school classroom contexts. 3 graduate hours. No professional credit. Prerequisite: PHYS 590 or permission from instructor. Must be an in-service high school teacher who typically carries 1 or more physics preps on their course schedule.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/591"
+  },
+  {
+    "class-number": "PHYS 595",
+    "class-title": "Communicating Scientific Research",
+    "credits": "4 Hours Hours.",
+    "description": "Helps graduate students in science and engineering improve their scientific writing and presentation skills through instruction and detailed feedback on a variety of technical writing and presentation styles common in science and engineering practice. These assignments include a journal-style research paper, an NSF-style proposal, an editor cover letter, a referee report, and journal club and research presentations. In class weekly \"Writing Workshop\" assignments also offer students experience reading and revising technical material and correcting common rhetorical errors. 4 graduate hours. No professional credit.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/595"
+  },
+  {
+    "class-number": "PHYS 596",
+    "class-title": "Graduate Physics Orientation",
+    "credits": "1 Hour Hours.",
+    "description": "Introduction to research in the Department of Physics. Advice on choosing a field of research and finding a research advisor. Faculty-presented overviews of the major areas of research available in the Physics Department. General discussions on instructional topics as well as ethics in teaching and sciences.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/596"
+  },
+  {
+    "class-number": "PHYS 597",
+    "class-title": "Individual Study",
+    "credits": "1 to 16 Hours Hours.",
+    "description": "Individual study in a subject not covered in course offerings may be arranged for credit by registration under this number. May be repeated. 2 to 16 hours for full term; 1 to 8 hours for half-term. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/597"
+  },
+  {
+    "class-number": "PHYS 598",
+    "class-title": "Special Topics in Physics",
+    "credits": "1 to 4 Hours Hours.",
+    "description": "Subject offerings of new and developing areas of knowledge in physics intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/598"
+  },
+  {
+    "class-number": "PHYS 599",
+    "class-title": "Thesis Research",
+    "credits": "0 to 16 Hours Hours.",
+    "description": "Approved for S/U grading only. May be repeated.",
+    "link": "https://courses.illinois.edu/schedule/terms/PHYS/599"
+  }
+]

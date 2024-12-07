@@ -1,0 +1,228 @@
+{
+  "degree_programs": [
+    {
+      "name": "Physics, BS",
+      "total_hours_required": 128,
+      "minimum_gpa": {
+        "technical": 2.0,
+        "overall": 2.0
+      },
+      "requirements": [
+        {
+          "category": "Orientation and Professional Development",
+          "courses": [
+            {"code": "ENG 100", "name": "Grainger Engineering Orientation Seminar", "hours": 1, "notes": "External transfer students take ENG 300."},
+            {"code": "PHYS 110", "name": "Physics Careers", "hours": 0}
+          ]
+        },
+        {
+          "category": "Foundational Mathematics and Science",
+          "courses": [
+            {"code": "MATH 221", "name": "Calculus I", "hours": 4, "notes": "MATH 220 may be substituted. MATH 220 is appropriate for students with no background in calculus."},
+            {"code": "MATH 231", "name": "Calculus II", "hours": 3},
+            {"code": "MATH 241", "name": "Calculus III", "hours": 4},
+            {"code": "MATH 257", "name": "Linear Algebra with Computational Applications", "hours": 3},
+            {"code": "MATH 285", "name": "Intro Differential Equations", "hours": 3, "notes": "May be replaced by both MATH 441 and MATH 442."},
+            {"code": "PHYS 211", "name": "University Physics: Mechanics", "hours": 4},
+            {"code": "PHYS 212", "name": "University Physics: Elec & Mag", "hours": 4},
+            {"code": "PHYS 213", "name": "Univ Physics: Thermal Physics", "hours": 2},
+            {"code": "PHYS 214", "name": "Univ Physics: Quantum Physics", "hours": 2},
+            {"code": "CHEM 102", "name": "General Chemistry I", "hours": 3},
+            {"code": "CHEM 103", "name": "General Chemistry Lab I", "hours": 1},
+            {"code": "CS 101", "name": "Intro Computing: Engrg & Sci", "hours": 3, "alternatives": ["CS 124"]}
+          ]
+        },
+        {
+          "category": "Physics Technical Core",
+          "courses": [
+            {"code": "PHYS 225", "name": "Relativity & Math Applications", "hours": 2},
+            {"code": "PHYS 325", "name": "Classical Mechanics I", "hours": 3},
+            {"code": "PHYS 435", "name": "Electromagnetic Fields I", "hours": 3},
+            {"code": "PHYS 486", "name": "Quantum Physics I", "hours": 4, "alternatives": ["PHYS 485"]}
+          ]
+        },
+        {
+          "category": "Program Tracks",
+          "description": "Students are required to complete one track. Tracks may be selected from one of the departmentally approved lists below. Students may devise an alternative, custom track with a set of courses approved by the department.",
+          "hours_required": {
+            "min": 21,
+            "max": 24
+          },
+          "tracks": [
+            {
+              "name": "Astrophysics Track",
+              "hours": 21,
+              "required_courses": [
+                {"code": "ASTR 210", "name": "Introduction to Astrophysics", "hours": 3}
+              ],
+              "elective_groups": [
+                {
+                  "name": "Astrophysics Electives",
+                  "choose": 3,
+                  "courses": [
+                    {"code": "ASTR 350", "name": "The Big Bang, Black Holes, and the End of the Universe", "hours": 3},
+                    {"code": "ASTR 406", "name": "Galaxies and the Universe", "hours": 3},
+                    {"code": "ASTR 404", "name": "Stellar Astrophysics", "hours": 3},
+                    {"code": "ASTR 405", "name": "Planetary Systems", "hours": 3},
+                    {"code": "ASTR 414", "name": "Astronomical Techniques", "hours": 4}
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Business Track",
+              "hours": 21,
+              "required_courses": [
+                {"code": "TE 100", "name": "Introduction to Innovation, Leadership and Engineering Entrepreneurship", "hours": 1}
+              ],
+              "elective_groups": [
+                {
+                  "name": "Business Electives",
+                  "hours_required": 11,
+                  "courses": [
+                    {"code": "ENG 471", "name": "Seminar Energy & Sustain Engrg", "hours": 1},
+                    {"code": "IE 420", "name": "Financial Engineering", "hours": 3},
+                    {"code": "SE 400", "name": "Engineering Law", "hours": 3},
+                    {"code": "TE 360", "name": "Lectures in Engineering Entrepreneurship", "hours": 1},
+                    {"code": "TE 333", "name": "Creativity, Innovation, Vision", "hours": 4},
+                    {"code": "TE 461", "name": "Technology Entrepreneurship", "hours": 3},
+                    {"code": "TE 450", "name": "Startups: Incorporation, Funding, Contracts, & Intellectual Property", "hours": 3},
+                    {"code": "TE 466", "name": "High-Tech Venture Marketing", "hours": 2}
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Computational Physics Track",
+              "hours": 24,
+              "required_courses": [
+                {"code": "CS 173", "name": "Discrete Structures", "hours": 3, "alternatives": ["MATH 213"]},
+                {"code": "CS 225", "name": "Data Structures", "hours": 4}
+              ],
+              "elective_groups": [
+                {
+                  "name": "Computational Physics Electives",
+                  "choose": 3,
+                  "courses": [
+                    {"code": "CS 357", "name": "Numerical Methods I", "hours": 3},
+                    {"code": "CS 420", "name": "Parallel Progrmg: Sci & Engrg", "hours": 3},
+                    {"code": "CS 418", "name": "Interactive Computer Graphics", "hours": 3},
+                    {"code": "CS 450", "name": "Numerical Analysis", "hours": 3},
+                    {"code": "PHYS 246", "name": "Physics on the Silicon Prairie: An Introduction to Modern Computational Physics", "hours": 2},
+                    {"code": "PHYS 446", "name": "Modern Computational Physics", "hours": 3}
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Nuclear Physics Track",
+              "hours": 22,
+              "required_courses": [
+                {"code": "NPRE 402", "name": "Nuclear Power Engineering", "hours": 3},
+                {"code": "PHYS 470", "name": "Subatomic Physics", "hours": 4}
+              ],
+              "elective_groups": [
+                {
+                  "name": "Nuclear Physics Electives",
+                  "choose": 2,
+                  "courses": [
+                    {"code": "NPRE 321", "name": "Introduction to Plasmas and Applications", "hours": 3},
+                    {"code": "NPRE 421", "name": "Plasma and Fusion Science", "hours": 3},
+                    {"code": "NPRE 429", "name": "Plasma Engineering", "hours": 3},
+                    {"code": "NPRE 435", "name": "Radiological Imaging", "hours": 3},
+                    {"code": "NPRE 441", "name": "Radiation Protection", "hours": 4},
+                    {"code": "NPRE 445", "name": "Interaction of Radiation with Matter", "hours": 4},
+                    {"code": "NPRE 451", "name": "NPRE Laboratory", "hours": 3},
+                    {"code": "NPRE 455", "name": "Neutron Diffusion & Transport", "hours": 4}
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Graduate Study Track",
+              "hours": 20,
+              "required_courses": [
+                {"code": "PHYS 326", "name": "Classical Mechanics II", "hours": 3},
+                {"code": "PHYS 427", "name": "Thermal & Statistical Physics", "hours": 4},
+                {"code": "PHYS 436", "name": "Electromagnetic Fields II", "hours": 3},
+                {"code": "PHYS 487", "name": "Quantum Physics II", "hours": 4}
+              ],
+              "elective_groups": [
+                {
+                  "name": "Physics Lab Electives",
+                  "choose": 2,
+                  "courses": [
+                    {"code": "PHYS 371", "name": "Project Design and Execution in a Physics Context", "hours": 3},
+                    {"code": "PHYS 401", "name": "Classical Physics Lab", "hours": 3},
+                    {"code": "PHYS 402", "name": "Light", "hours": 4},
+                    {"code": "PHYS 403", "name": "Modern Experimental Physics", "hours": 5},
+                    {"code": "PHYS 404", "name": "Electronic Circuits", "hours": 5}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Flexible Physics Core Electives",
+          "description": "Choose a minimum of 6 hours of courses from this list",
+          "hours_required": 6,
+          "courses": [
+            {"code": "PHYS 246", "name": "Physics on the Silicon Prairie: An Introduction to Modern Computational Physics", "hours": 2},
+            {"code": "PHYS 326", "name": "Classical Mechanics II", "hours": 3},
+            {"code": "PHYS 370", "name": "Introduction to Quantum Information and Computing", "hours": 3},
+            {"code": "PHYS 427", "name": "Thermal & Statistical Physics", "hours": 4},
+            {"code": "PHYS 436", "name": "Electromagnetic Fields II", "hours": 3},
+            {"code": "PHYS 446", "name": "Modern Computational Physics", "hours": 3},
+            {"code": "PHYS 460", "name": "Condensed Matter Physics", "hours": 4},
+            {"code": "PHYS 470", "name": "Subatomic Physics", "hours": 4},
+            {"code": "PHYS 487", "name": "Quantum Physics II", "hours": 4}
+          ]
+        },
+        {
+          "category": "Physics Lab Electives",
+          "description": "Choose 1 course from this list",
+          "hours_required": 3,
+          "courses": [
+            {"code": "PHYS 371", "name": "Project Design and Execution in a Physics Context", "hours": 3},
+            {"code": "PHYS 401", "name": "Classical Physics Lab", "hours": 3},
+            {"code": "PHYS 402", "name": "Light", "hours": 4},
+            {"code": "PHYS 403", "name": "Modern Experimental Physics", "hours": 5},
+            {"code": "PHYS 404", "name": "Electronic Circuits", "hours": 5}
+          ]
+        },
+        {
+          "category": "General Education Requirements",
+          "description": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program.",
+          "requirements": [
+            {"name": "Composition I", "hours": {"min": 4, "max": 6}},
+            {"name": "Advanced Composition", "hours": 3},
+            {"name": "Humanities & the Arts", "hours": 6},
+            {"name": "Natural Sciences & Technology", "hours": 6, "notes": "fulfilled by PHYS 211, PHYS 212, CHEM 102"},
+            {"name": "Social & Behavioral Sciences", "hours": 6},
+            {"name": "Cultural Studies: Non-Western Cultures", "hours": 3},
+            {"name": "Cultural Studies: US Minority Cultures", "hours": 3},
+            {"name": "Cultural Studies: Western/Comparative Cultures", "hours": 3},
+            {"name": "Quantitative Reasoning", "hours": {"min": 6, "max": 10}, "notes": "fulfilled by MATH 221 or MATH 220; MATH 231, MATH 241, MATH 285, PHYS 211, PHYS 212, CS 101 or CS 124"},
+            {"name": "Language Other Than English", "hours": {"min": 0, "max": 15}, "notes": "Completion of the third semester or equivalent of a language other than English is required"}
+          ]
+        },
+        {
+          "category": "Free Electives",
+          "description": "Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree.",
+          "hours": {
+            "min": 36,
+            "max": 43
+          },
+          "notes": "The number of free elective hours varies depending upon the total hours earned in Flexible Physics Electives, Physics Lab Electives, and Program Track."
+        }
+      ],
+      "additional_requirements": [
+        {
+          "description": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level.",
+          "notes": "These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+        }
+      ]
+    }
+  ]
+}

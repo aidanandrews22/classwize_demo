@@ -1,0 +1,905 @@
+[
+  {
+    "class-number": "MATH 101",
+    "class-title": "Thinking Mathematically",
+    "credits": "3 Hours Hours.",
+    "description": "Designed for students in majors that do not specifically require a mathematics course beyond the level of precalculus. Focus is on critical thinking and applications. All topics are covered from a contextual standpoint. Topics include proportional reasoning and modeling, functions, sets, consumer math, probability, and statistics. Other topics may be covered as time permits. Prerequisite: Three years of high school mathematics. Undergraduates only.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/101"
+  },
+  {
+    "class-number": "MATH 103",
+    "class-title": "Theory of Arithmetic",
+    "credits": "4 Hours Hours.",
+    "description": "Analyses of the mathematical issues and methodology underlying elementary mathematics in grades K-5. Topics include sets, arithmetic algorithms, elementary number theory, rational and irrational numbers, measurement, and probability. There is an emphasis on problem solving. Priority registration will be given to students enrolled in teacher education programs leading to certification in elementary or childhood education. Prerequisite: MATH 112 (formerly MATH 012) or equivalent. This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/103"
+  },
+  {
+    "class-number": "MATH 112",
+    "class-title": "Algebra",
+    "credits": "3 Hours Hours.",
+    "description": "Rapid review of basic techniques of factoring, rational expressions, equations and inequalities; functions and graphs; exponential and logarithm functions; systems of equations; matrices and determinants; polynomials; and the binomial theorem. Prerequisite: An adequate ALEKS placement score as described at http://math.illinois.edu/ALEKS/, demonstrating knowledge of 1.5 units of high school algebra and 1 unit of high school geometry.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/112"
+  },
+  {
+    "class-number": "MATH 114",
+    "class-title": "Trigonometry",
+    "credits": "2 Hours Hours.",
+    "description": "Studies degrees and radians, the trigonometric functions, identities and equations, inverse functions, oblique triangles and applications. Credit is not given for MATH 114 and either MATH 014 or MATH 115. Prerequisite: 1.5 units of high school algebra; 1 unit of high school geometry.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/114"
+  },
+  {
+    "class-number": "MATH 115",
+    "class-title": "Preparation for Calculus",
+    "credits": "3 Hours Hours.",
+    "description": "Reviews trigonometric, rational, exponential, and logarithmic functions; provides a full treatment of limits, definition of derivative, and an introduction to finding area under a curve. Intended for students who need preparation for MATH 220, either because they lack the content background or because they are not prepared for the rigor of a university calculus course. Credit is not given for both MATH 115 and either MATH 014 or MATH 114. Credit is not given for MATH 115 if credit for either MATH 220 or MATH 221 has been earned. Prerequisite: An adequate ALEKS placement score as described at http://math.illinois.edu/ALEKS/, demonstrating knowledge of the topics of MATH 112. This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/115"
+  },
+  {
+    "class-number": "MATH 117",
+    "class-title": "Elementary Mathematics",
+    "credits": "4 Hours Hours.",
+    "description": "Analyses of the mathematical issues and methodology underlying elementary mathematics in grades 6-8. Topics include the Real number system and field axioms, sequences and series, functions and math modeling with technology, Euclidean and non-Euclidean geometry, probability and statistics. Priority registration will be given to students enrolled in teacher education programs leading to certification in elementary education. Prerequisite: MATH 112 (formerly MATH 012) or equivalent.This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/117"
+  },
+  {
+    "class-number": "MATH 119",
+    "class-title": "Ideas in Geometry",
+    "credits": "3 Hours Hours.",
+    "description": "General education course in mathematics, for students who do not have mathematics as a central part of their studies. The goal is to convey the spirit of mathematical thinking through topics chosen mainly from plane geometry. Prerequisite: Two units of high school algebra; one unit of high school geometry; or equivalent.This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/119"
+  },
+  {
+    "class-number": "MATH 124",
+    "class-title": "Finite Mathematics",
+    "credits": "3 Hours Hours.",
+    "description": "Introduction to finite mathematics for students in the social sciences; introduces the student to the basic ideas of logic, set theory, probability, vectors and matrices, and Markov chains. Problems are selected from social sciences and business. Prerequisite: MATH 112 (formerly MATH 012) or an adequate ALEKS score.This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/124"
+  },
+  {
+    "class-number": "MATH 181",
+    "class-title": "A Mathematical World",
+    "credits": "3 Hours Hours.",
+    "description": "Introduction to selected areas of mathematical sciences through application to modeling and solution of problems involving networks, circuits, trees, linear programming, random samples, regression, probability, inference, voting systems, game theory, symmetry and tilings, geometric growth, comparison of algorithms, codes and data management. Prerequisite: Three years of high school mathematics, including two years of algebra and one year of geometry.This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/181"
+  },
+  {
+    "class-number": "MATH 198",
+    "class-title": "Freshman Seminar",
+    "credits": "3 Hours Hours.",
+    "description": "Guides the student in the study of selected topics not considered in standard courses. Prerequisite: Enrollment in the mathematics honors program; consent of department.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/198"
+  },
+  {
+    "class-number": "MATH 199",
+    "class-title": "Undergraduate Open Seminar",
+    "credits": "1 to 5 Hours Hours.",
+    "description": "Approved for both letter and S/U grading. May be repeated.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/199"
+  },
+  {
+    "class-number": "MATH 213",
+    "class-title": "Basic Discrete Mathematics",
+    "credits": "3 Hours Hours.",
+    "description": "Beginning course on discrete mathematics, including sets and relations, functions, basic counting techniques, recurrence relations, graphs and trees, and matrix algebra; emphasis throughout is on algorithms and their efficacy. Credit is not given for both MATH 213 and CS 173. Prerequisite: MATH 220 or MATH 221, or equivalent.This course satisfies the General Education Criteria for:Quantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/213"
+  },
+  {
+    "class-number": "MATH 220",
+    "class-title": "Calculus",
+    "credits": "5 Hours Hours.",
+    "description": "First course in calculus and analytic geometry; basic techniques of differentiation and integration with applications including curve sketching; antidifferentation, the Riemann integral, fundamental theorem, exponential and trigonometric functions. Credit is not given for both MATH 220 and either MATH 221 or MATH 234. Prerequisite: An adequate ALEKS placement score as described at http://math.illinois.edu/ALEKS/, demonstrating knowledge of topics of MATH 115. Students with previous calculus experience should consider MATH 221. This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/220"
+  },
+  {
+    "class-number": "MATH 221",
+    "class-title": "Calculus I",
+    "credits": "4 Hours Hours.",
+    "description": "First course in calculus and analytic geometry for students with some calculus background; basic techniques of differentiation and integration with applications including curve sketching; antidifferentation, the Riemann integral, fundamental theorem, exponential and trigonometric functions. Credit is not given for both MATH 221 and either MATH 220 or MATH 234. Prerequisite: An adequate ALEKS placement score as described at http://math.illinois.edu/ALEKS/ and either one year of high school calculus or a minimum score of 2 on the AB Calculus AP exam. This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/221"
+  },
+  {
+    "class-number": "MATH 225",
+    "class-title": "Introductory Matrix Theory",
+    "credits": "2 Hours Hours.",
+    "description": "Systems of linear equations, matrices and inverses, determinants, and a glimpse at vector spaces, eigenvalues and eigenvectors. Credit is not given for both MATH 225 and any of MATH 125, ASRM 406, or MATH 415. Prerequisite: MATH 220 or MATH 221; or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/225"
+  },
+  {
+    "class-number": "MATH 227",
+    "class-title": "Linear Algebra for Data Science",
+    "credits": "3 Hours Hours.",
+    "description": "Linear algebra is the main mathematical subject underlying the basic techniques of data science. Provides a practical computer-based introduction to linear algebra, emphasizing its uses in analyzing data, such as linear regression, principal component analysis, and network analysis. Students will also explore some of the strengths and limitations of linear methods. Students will learn how to implement linear algebra methods on a computer, making it possible to apply these techniques to large data sets. Credit is not given for both MATH 227 and any of Math 125, MATH 225, MATH 257, MATH 415, or ASRM 406. Prerequisite: Assumes an introductory knowledge of Python, such as students acquire in STAT 107.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/227"
+  },
+  {
+    "class-number": "MATH 231",
+    "class-title": "Calculus II",
+    "credits": "3 Hours Hours.",
+    "description": "Second course in calculus and analytic geometry: techniques of integration, conic sections, polar coordinates, and infinite series. Prerequisite: MATH 220 or MATH 221. This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/231"
+  },
+  {
+    "class-number": "MATH 234",
+    "class-title": "Calculus for Business I",
+    "credits": "4 Hours Hours.",
+    "description": "Introduction to the concept of functions and the basic ideas of the calculus. Credit is not given for both MATH 234 and either MATH 220 or MATH 221. Prerequisite: An adequate ALEKS placement score as described at http://math.illinois.edu/ALEKS/, demonstrating knowledge of the topics of MATH 112. This course satisfies the General Education Criteria for:Quantitative Reasoning I",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/234"
+  },
+  {
+    "class-number": "MATH 241",
+    "class-title": "Calculus III",
+    "credits": "4 Hours Hours.",
+    "description": "Third course in calculus and analytic geometry including vector analysis: Euclidean space, partial differentiation, multiple integrals, line integrals and surface integrals, the integral theorems of vector calculus. Credit is not given for both MATH 241 and MATH 292. Prerequisite: MATH 231. This course satisfies the General Education Criteria for:Quantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/241"
+  },
+  {
+    "class-number": "MATH 257",
+    "class-title": "Linear Algebra with Computational Applications",
+    "credits": "3 Hours Hours.",
+    "description": "Introductory course incorporating linear algebra concepts with computational tools, with real world applications to science, engineering and data science. Topics include linear equations, matrix operations, vector spaces, linear transformations, eigenvalues, eigenvectors, inner products and norms, orthogonality, linear regression, equilibrium, linear dynamical systems and the singular value decomposition. Credit is not given for both MATH 257 and any of MATH 125, MATH 225, MATH 227, MATH 415 or ASRM 406. Prerequisite: MATH 220 or MATH 221; CS 101 or equivalent programming experience.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/257"
+  },
+  {
+    "class-number": "MATH 284",
+    "class-title": "Intro Differential Systems",
+    "credits": "4 Hours Hours.",
+    "description": "First order differential equations; mathematical models and numerical methods; linear systems and matrices; higher-order linear differential equations; eigenvalues and eigenvectors; linear systems of differential equations; Laplace transform methods. Credit is not given for both MATH 284 and either MATH 285 or MATH 286. Prerequisite: MATH 231 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/284"
+  },
+  {
+    "class-number": "MATH 285",
+    "class-title": "Intro Differential Equations",
+    "credits": "3 Hours Hours.",
+    "description": "Techniques and applications of ordinary differential equations, including Fourier series and boundary value problems, and an introduction to partial differential equations. Intended for engineering majors and others who require a working knowledge of differential equations. Credit is not given for both MATH 285 and any of MATH 284, MATH 286, MATH 441. Prerequisite: MATH 241.This course satisfies the General Education Criteria for:Quantitative Reasoning II",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/285"
+  },
+  {
+    "class-number": "MATH 292",
+    "class-title": "Vector Calculus Supplement",
+    "credits": "2 Hours Hours.",
+    "description": "Course in multivariable calculus. Topics include gradient, divergence, and curl; line and surface integrals; and the theorems of Green, Stokes, and Gauss. Intended for transfer students whose multivariable calculus course did not include the integral theorems of vector calculus. Credit is not given for both MATH 292 and MATH 241. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/292"
+  },
+  {
+    "class-number": "MATH 299",
+    "class-title": "Topics in Mathematics",
+    "credits": "1 to 4 Hours Hours.",
+    "description": "Topics course; see Class Schedule or department office for current topics. May be repeated in the same or subsequent semesters to a maximum of 8 hours. Prerequisite: MATH 220 or MATH 221; consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/299"
+  },
+  {
+    "class-number": "MATH 314",
+    "class-title": "Introduction to Higher Mathematics",
+    "credits": "4 Hours Hours.",
+    "description": "Skills and techniques necessary to identify valid mathematical proofs and to produce valid mathematical proofs. Students will also be exposed to beginning ideas in several advanced mathematical topics, including modular arithmetic, group theory, combinatorial reasoning, solving equations, epsilon-delta arguments, and limits. This course is particularly focused on students who have no prior proof-writing experience; students with prior proof-writing experience, or with less need for training in writing proofs, should consider MATH 347 instead. Credit is not given toward graduation for both MATH 314 and MATH 347. Prerequisite: MATH 241.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/314"
+  },
+  {
+    "class-number": "MATH 347",
+    "class-title": "Fundamental Mathematics",
+    "credits": "3 Hours Hours.",
+    "description": "Fundamental ideas used in many areas of mathematics. Topics will include: techniques of proof, mathematical induction, binomial coefficients, rational and irrational numbers, the least upper bound axiom for real numbers, and a rigorous treatment of convergence of sequences and series. This will be supplemented by the instructor from topics available in the various texts. Students will regularly write proofs emphasizing precise reasoning and clear exposition. Credit is not given for both MATH 314 and MATH 347. Prerequisite: MATH 231.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/347"
+  },
+  {
+    "class-number": "MATH 357",
+    "class-title": "Numerical Methods I",
+    "credits": "3 Hours Hours.",
+    "description": "Same as CS 357. See CS 357.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/357"
+  },
+  {
+    "class-number": "MATH 362",
+    "class-title": "Probability with Engrg Applic",
+    "credits": "3 Hours Hours.",
+    "description": "Same as ECE 313. See ECE 313.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/362"
+  },
+  {
+    "class-number": "MATH 390",
+    "class-title": "Individual Study",
+    "credits": "0 to 3 Hours Hours.",
+    "description": "Guided individual study of advanced topics not covered in other courses. May be repeated to a maximum of 8 hours. Approved for both letter and S/U grading. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/390"
+  },
+  {
+    "class-number": "MATH 399",
+    "class-title": "Math/Actuarial Internship",
+    "credits": "0 Hours Hours.",
+    "description": "Full-time or part-time practice of math or actuarial science in an off-campus government, industrial, or research laboratory environment. Summary report required. Approved for S/U grading only. May be repeated in separate terms. Prerequisite: After obtaining an internship, Mathematics majors must request entry from the Mathematics Director of Undergraduate Studies; Actuarial Science majors must request entry from the Director of the Actuarial Science Program.This course satisfies the General Education Criteria for:UIUC: Ugrad Zero Credit Intern",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/399"
+  },
+  {
+    "class-number": "MATH 402",
+    "class-title": "Non Euclidean Geometry",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Historical development of geometry; includes tacit assumptions made by Euclid; the discovery of non-Euclidean geometries; geometry as a mathematical structure; and an axiomatic development of plane geometry. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241; MATH 314 or MATH 347 or MATH 348, or equivalent; or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/402"
+  },
+  {
+    "class-number": "MATH 403",
+    "class-title": "Euclidean Geometry",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Selected topics from geometry, including the nine-point circle, theorems of Cera and Menelaus, regular figures, isometries in the plane, ordered and affine geometries, and the inversive plane. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241; MATH 314 or MATH 347, or equivalent; or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/403"
+  },
+  {
+    "class-number": "MATH 405",
+    "class-title": "Teacher's Course",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "In-depth, advanced perspective look at selected topics covered in the secondary curriculum. Connects mathematics learned at the university level to content introduced at the secondary level. Intended for students who plan to seek a secondary certificate in mathematics teaching. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241; MATH 314 or MATH 347, or equivalent; or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/405"
+  },
+  {
+    "class-number": "MATH 406",
+    "class-title": "History of Calculus",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Examination of the historical origins and genesis of the concepts of the calculus; includes mathematical developments from the ancient Greeks to the eighteenth century. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/406"
+  },
+  {
+    "class-number": "MATH 412",
+    "class-title": "Graph Theory",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Examines basic concepts and applications of graph theory, where graph refers to a set of vertices and edges that join some pairs of vertices; topics include subgraphs, connectivity, trees, cycles, vertex and edge coloring, planar graphs and their colorings. Draws applications from computer science, operations research, chemistry, the social sciences, and other branches of mathematics, but emphasis is placed on theoretical aspects of graphs. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 314 or MATH 347 or equivalent experience or CS 374.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/412"
+  },
+  {
+    "class-number": "MATH 413",
+    "class-title": "Intro to Combinatorics",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Permutations and combinations, generating functions, recurrence relations, inclusion and exclusion, Polya's theory of counting, and block designs. Same as CS 413. 3 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and completion of additional work of substance. Prerequisite: MATH 314 or MATH 347 or equivalent experience.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/413"
+  },
+  {
+    "class-number": "MATH 414",
+    "class-title": "Mathematical Logic",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Introduction to the formalization of mathematics and the study of axiomatic systems; expressive power of logical formulas; detailed treatment of propositional logical and predicate logic; compactness theorem and Godel completeness theorem, with applications to specific mathematical theories; algorithmic aspects of logical formulas. Proofs are emphasized in this course, which can serve as an introduction to abstract mathematics and rigorous proof; some ability to do mathematical reasoning required. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 314 or MATH 347 or equivalent experience.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/414"
+  },
+  {
+    "class-number": "MATH 415",
+    "class-title": "Applied Linear Algebra",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Introductory course emphasizing techniques of linear algebra with applications to engineering; topics include matrix operations, determinants, linear equations, vector spaces, linear transformations, eigenvalues, and eigenvectors, inner products and norms, orthogonality, equilibrium, and linear dynamical systems. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 415 and any of MATH 125, MATH 225, ASRM 406, or MATH 416. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/415"
+  },
+  {
+    "class-number": "MATH 416",
+    "class-title": "Abstract Linear Algebra",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Rigorous proof-oriented course in linear algebra. Topics include determinants, vector spaces over fields, linear transformations, inner product spaces, eigenvectors and eigenvalues, Hermitian matrices, Jordan Normal Form. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 416 and either ASRM 406 or MATH 415. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241; MATH 314 or MATH 347; or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/416"
+  },
+  {
+    "class-number": "MATH 417",
+    "class-title": "Intro to Abstract Algebra",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Fundamental theorem of arithmetic, congruences. Permutations. Groups and subgroups, homomorphisms. Group actions with applications. Polynomials. Rings, subrings, and ideals. Integral domains and fields. Roots of polynomials. Maximal ideals, construction of fields. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: Either MATH 416 or one of ASRM 406, MATH 415 together with one of MATH 314, MATH 347, CS 374; or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/417"
+  },
+  {
+    "class-number": "MATH 418",
+    "class-title": "Intro to Abstract Algebra II",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Rings of quotients of an integral domain. Euclidean domains, principal ideal domains. Unique factorization in polynomial rings. Fields extensions, ruler and compass constructions. Finite fields with applications. Modules. Structure theorem for finitely generated modules over principal ideal domains. Application to finitely generated abelian groups and canonical forms of matrices. Introduction to error-correcting codes. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 417 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/418"
+  },
+  {
+    "class-number": "MATH 423",
+    "class-title": "Differential Geometry",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Applications of the calculus to the study of the shape and curvature of curves and surfaces; introduction to vector fields, differential forms on Euclidean spaces, and the method of moving frames for low- dimensional differential geometry. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/423"
+  },
+  {
+    "class-number": "MATH 424",
+    "class-title": "Honors Real Analysis",
+    "credits": "3 Hours Hours.",
+    "description": "A rigorous treatment of basic real analysis via metric spaces recommended for those who intend to pursue programs heavily dependent upon graduate level Mathematics. Metric space topics include continuity, compactness, completeness, connectedness and uniform convergence. Analysis topics include the theory of differentiation, Riemann-Darboux integration, sequences and series of functions, and interchange of limiting operations. As part of the honors sequence, this course will be rigorous and abstract. 3 undergraduate hours. No graduate credit. Credit is not given for both MATH 424 and either MATH 444 or MATH 447. Approved for honors grading. Prerequisite: An honors section of MATH 347 or an honors section of MATH 416, and consent of the department.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/424"
+  },
+  {
+    "class-number": "MATH 425",
+    "class-title": "Honors Advanced Analysis",
+    "credits": "3 Hours Hours.",
+    "description": "A theoretical treatment of differential and integral calculus in higher dimensions. Topics include inverse and implicit function theorems, submanifolds, the theorems of Green, Gauss and Stokes, differential forms, and applications. As part of the honors sequence, this course will be rigorous and abstract. 3 undergraduate hours. No graduate credit. Approved for honors grading. Prerequisite: MATH 424 and either MATH 415 or MATH 416, and consent of the department.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/425"
+  },
+  {
+    "class-number": "MATH 427",
+    "class-title": "Honors Abstract Algebra",
+    "credits": "3 Hours Hours.",
+    "description": "Group theory, counting formulae, factorization, modules with applications to Abelian groups and linear operators. As part of the honors sequence, this course will be rigorous and abstract. 3 undergraduate hours. No graduate credit. Approved for honors grading. Credit is not given for both MATH 427 and MATH 417. Prerequisite: Consent of the department is required. Prerequisite courses are either an honors section of MATH 416, or MATH 415 together with an honors section of MATH 347.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/427"
+  },
+  {
+    "class-number": "MATH 428",
+    "class-title": "Honors Topics in Mathematics",
+    "credits": "3 Hours Hours.",
+    "description": "A capstone course in the Mathematics Honors Sequences. Topics will vary. As part of the honors sequence, this course will be rigorous and abstract. 3 undergraduate hours. No graduate credit. May be repeated in the same or separate terms to a maximum of 12 hours. Prerequisite: Consent of the department.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/428"
+  },
+  {
+    "class-number": "MATH 432",
+    "class-title": "Set Theory and Topology",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Informal set theory, cardinal and ordinal numbers, and the axiom of choice; topology of metric spaces and introduction to general topological spaces. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 314 or MATH 347 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/432"
+  },
+  {
+    "class-number": "MATH 439",
+    "class-title": "Philosophy of Mathematics",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Same as PHIL 439. See PHIL 439.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/439"
+  },
+  {
+    "class-number": "MATH 441",
+    "class-title": "Differential Equations",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Basic course in ordinary differential equations; topics include existence and uniqueness of solutions and the general theory of linear differential equations; treatment is more rigorous than that given in MATH 285. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 441 and any of MATH 284, MATH 285, MATH 286. 4 hours of credit requires approval of the instructor and completion of additional work of substance. Prerequisite: MATH 241; MATH 314 or MATH 347 is recommended.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/441"
+  },
+  {
+    "class-number": "MATH 442",
+    "class-title": "Intro Partial Diff Equations",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Introduces partial differential equations, emphasizing the wave, diffusion and potential (Laplace) equations. Focuses on understanding the physical meaning and mathematical properties of solutions of partial differential equations. Includes fundamental solutions and transform methods for problems on the line, as well as separation of variables using orthogonal series for problems in regions with boundary. Covers convergence of Fourier series in detail. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and completion of additional work of substance. Prerequisite: One of MATH 284, MATH 285, MATH 286, MATH 441.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/442"
+  },
+  {
+    "class-number": "MATH 444",
+    "class-title": "Elementary Real Analysis",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Careful treatment of the theoretical aspects of the calculus of functions of a real variable intended for those who do not plan to take graduate courses in Mathematics. Topics include the real number system, limits, continuity, derivatives, and the Riemann integral. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 444 and either MATH 424 or MATH 447. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241; MATH 314 or MATH 347, or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/444"
+  },
+  {
+    "class-number": "MATH 446",
+    "class-title": "Applied Complex Variables",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "For students who desire a working knowledge of complex variables; covers the standard topics and gives an introduction to integration by residues, the argument principle, conformal maps, and potential fields. Students desiring a systematic development of the foundations of the subject should take MATH 448. 3 or 4 undergraduate hours. 3 or 4 graduate hours.  Credit is not given for both MATH 446 and MATH 448. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/446"
+  },
+  {
+    "class-number": "MATH 447",
+    "class-title": "Real Variables",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Careful development of elementary real analysis for those who intend to take graduate courses in Mathematics. Topics include completeness property of the real number system; basic topological properties of n-dimensional space; convergence of numerical sequences and series of functions; properties of continuous functions; and basic theorems concerning differentiation and Riemann integration. 3 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 447 and either MATH 424 or MATH 444. 4 hours of credit requires approval of the instructor and completion of additional work of substance. Prerequisite: MATH 241 or equivalent; junior standing; MATH 314 or MATH 347, or equivalent experience; or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/447"
+  },
+  {
+    "class-number": "MATH 448",
+    "class-title": "Complex Variables",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "For students who desire a rigorous introduction to the theory of functions of a complex variable; topics include Cauchy's theorem, the residue theorem, the maximum modulus theorem, Laurent series, the fundamental theorem of algebra, and the argument principle. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 448 and MATH 446. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 447.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/448"
+  },
+  {
+    "class-number": "MATH 449",
+    "class-title": "Real Variables",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/449"
+  },
+  {
+    "class-number": "MATH 450",
+    "class-title": "Numerical Analysis",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Same as CS 450, CSE 401 and ECE 491. See CS 450.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/450"
+  },
+  {
+    "class-number": "MATH 453",
+    "class-title": "Number Theory",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Basic introduction to the theory of numbers. Core topics include divisibility, primes and factorization, congruences, arithmetic functions, quadratic residues and quadratic reciprocity, primitive roots and orders. Additional topics covered at the discretion of the instructor include sums of squares, Diophantine equations, continued fractions, Farey fractions, recurrences, and applications to primality testing and cryptopgraphy. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/453"
+  },
+  {
+    "class-number": "MATH 461",
+    "class-title": "Probability Theory",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Introduction to mathematical probability; includes the calculus of probability, combinatorial analysis, random variables, expectation, distribution functions, moment-generating functions, and central limit theorem. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 461 and either STAT 408 or ECE 313. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/461"
+  },
+  {
+    "class-number": "MATH 463",
+    "class-title": "Statistics and Probability I",
+    "credits": "4 Hours Hours.",
+    "description": "Same as STAT 400. See STAT 400.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/463"
+  },
+  {
+    "class-number": "MATH 464",
+    "class-title": "Statistics and Probability II",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Same as STAT 410. See STAT 410.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/464"
+  },
+  {
+    "class-number": "MATH 466",
+    "class-title": "Applied Random Processes",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Systematic discussion of discrete-time Markov chains, continuous-time Markov chains and discrete-time martingales. Topics include strong Markov properties, recurrence and transience, invariant distributions, convergence and ergodicity, time reversal, Q-matrices, holding time, forward and backward equations, martingales and potential theory, queuing networks, Markov decision processes, Markov Chain and Monte Carlo techniques. Unlike other campus stochastic processes courses, this course will emphasize the fundamental mathematical constructions underlying the theory of Markov chains, such as Laplace operators, martingales, and harmonic functions. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: MATH 241, MATH 416, and MATH 461. Priority registration will be given to students in the Mathematics + Data Science major.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/466"
+  },
+  {
+    "class-number": "MATH 467",
+    "class-title": "Mathematics for Machine Learning",
+    "credits": "4 Hours Hours.",
+    "description": "Overview of the major components of modern machine learning, including linear and logistic regression, Principal Component Analysis, Support Vector Machines, feature importance, casual inference, training, validation and testing. Students will learn how to connect their mathematical background with various tools in data science, emphasizing the connection between modeling and analysis as well as modern data science tools. 4 undergraduate hours. No graduate credit. Prerequisite: MATH 416; MATH 461 or STAT 400; STAT 207; CS 277; and CS 307.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/467"
+  },
+  {
+    "class-number": "MATH 473",
+    "class-title": "Algorithms",
+    "credits": "4 Hours Hours.",
+    "description": "Same as CS 473 and CSE 414. See CS 473.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/473"
+  },
+  {
+    "class-number": "MATH 475",
+    "class-title": "Formal Models of Computation",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Same as CS 475. See CS 475.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/475"
+  },
+  {
+    "class-number": "MATH 481",
+    "class-title": "Vector and Tensor Analysis",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Introductory course in modern differential geometry focusing on examples, broadly aimed at students in mathematics, the sciences, and engineering. Emphasis on rigorously presented concepts, tools and ideas rather than on proofs. The topics covered include differentiable manifolds, tangent spaces and orientability; vector and tensor fields; differential forms; integration on manifolds and Generalized Stokes Theorem; Riemannian metrics, Riemannian connections and geodesics. Applications to configuration and phase spaces, Maxwell equations and relativity theory will be discussed. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 and one of MATH 415 or MATH 416 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/481"
+  },
+  {
+    "class-number": "MATH 482",
+    "class-title": "Linear Programming",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Rigorous introduction to a wide range of topics in optimization, including a thorough treatment of basic ideas of linear programming, with additional topics drawn from numerical considerations, linear complementarity, integer programming and networks, polyhedral methods. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: ASRM 406, MATH 415, or MATH 416.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/482"
+  },
+  {
+    "class-number": "MATH 484",
+    "class-title": "Nonlinear Programming",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Iterative and analytical solutions of constrained and unconstrained problems of optimization; gradient and conjugate gradient solution methods; Newton's method, Lagrange multipliers, duality and the Kuhn-Tucker theorem; and quadratic, convex, and geometric programming. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241; MATH 314 or MATH 347; or equivalent; MATH 415 or equivalent; or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/484"
+  },
+  {
+    "class-number": "MATH 487",
+    "class-title": "Advanced Engineering Math",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Complex linear algebra, inner product spaces, Fourier transforms and analysis of boundary value problems, Sturm-Liouville theory. Same as ECE 493. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of MATH 284, MATH 285, MATH 286, MATH 441.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/487"
+  },
+  {
+    "class-number": "MATH 489",
+    "class-title": "Dynamics & Differential Eqns",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Studies mathematical theory of dynamical systems, emphasizing both discrete-time dynamics and nonlinear systems of differential equations. Topics include: chaos, fractals, attractors, bifurcations, with application to areas such as population biology, fluid dynamics and classical physics. Basic knowledge of matrix theory will be assumed. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and completion of additional work of substance. Prerequisite: One of MATH 284, MATH 285, MATH 286, MATH 441.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/489"
+  },
+  {
+    "class-number": "MATH 490",
+    "class-title": "Advanced Topics in Mathematics",
+    "credits": "1 to 4 Hours Hours.",
+    "description": "Deals with selected topics and applications of mathematics; see Class Schedule or department office for current topics. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated with approval. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/490"
+  },
+  {
+    "class-number": "MATH 492",
+    "class-title": "Undergraduate Research in Math",
+    "credits": "1 to 3 Hours Hours.",
+    "description": "Work closely with department faculty on a well-defined research project. Topics and nature of assistance vary. Capstone paper or computational project required. 1 to 3 undergraduate hours. No graduate credit. Approved for Letter and S/U grading. May be repeated in separate terms up to 8 hours. Prerequisite: Evidence of adequate preparation for such study; consent of faculty member supervising the work; and approval of the department head.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/492"
+  },
+  {
+    "class-number": "MATH 495",
+    "class-title": "Models in Mathematical Biology",
+    "credits": "3 or 4 Hours Hours.",
+    "description": "Research-motivated subject material from Mathematical Biology with emphasis on modeling. 3 undergraduate hours. 4 graduate hours. Prerequisite: MATH 220 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/495"
+  },
+  {
+    "class-number": "MATH 496",
+    "class-title": "Honors Seminar",
+    "credits": "3 Hours Hours.",
+    "description": "Careful study of a selected area of mathematics, carried out either deductively from axioms or inductively through problems; subject matter varies with instructor. 3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours. Prerequisite: Consent of Mathematics Honors Committee.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/496"
+  },
+  {
+    "class-number": "MATH 499",
+    "class-title": "Introduction Graduate Research",
+    "credits": "1 Hour Hours.",
+    "description": "Seminar is required of all first-year graduate students in Mathematics. It provides a general introduction to the courses and research work in all of the areas of mathematics that are represented at the University of Illinois at Urbana-Champaign. 1 undergraduate hour. 1 graduate hour. Approved for S/U grading only. May be repeated to a maximum of 2 hours. Prerequisite: Graduate standing or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/499"
+  },
+  {
+    "class-number": "MATH 500",
+    "class-title": "Abstract Algebra I",
+    "credits": "4 Hours Hours.",
+    "description": "Isomorphism theorems for groups. Group actions. Composition series. Jordan-Holder theorem. Solvable and nilpotent groups. Field extensions. Algebraic and transcendental extensions. Algebraic closures. Fundamental theorem of Galois theory, and applications. Modules over commutative rings. Structure of finitely generated modules over a principal ideal domain. Applications to finite Abelian groups and matrix canonical forms. Prerequisite: MATH 417 and MATH 418.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/500"
+  },
+  {
+    "class-number": "MATH 501",
+    "class-title": "Abstract Algebra II",
+    "credits": "4 Hours Hours.",
+    "description": "Modules over non commutative rings. Direct sums and products. Direct and inverse limits. Categories and  functors. Projective and injective modules. Noetherian and Artinian rings and modules. Semisimple modules. Wedderburn's theorem on semisimple Artinian rings. Application to representation theory of groups. Multilinear algebra, tensor products and flat modules. Tensor, symmetric and exterior algebras. Additional advanced topics.  Prerequisite: MATH 500.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/501"
+  },
+  {
+    "class-number": "MATH 502",
+    "class-title": "Commutative Algebra",
+    "credits": "4 Hours Hours.",
+    "description": "Commutative rings and modules, prime ideals, localization, noetherian rings, primary decomposition, integral extensions and Noether normalization, the Nullstellensatz, dimension, flatness, Hensel's lemma, graded rings, Hilbert polynomial, valuations, regular rings, singularities, unique factorization, homological dimension, depth, completion. Possible further topics: smooth and etale extensions, ramification, Cohen-Macaulay modules, complete intersections. Prerequisite: MATH 501 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/502"
+  },
+  {
+    "class-number": "MATH 503",
+    "class-title": "Intro Geometric Group Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Free groups, groups given by generators and relations, van Kampen diagrams. Free product with amalgamations and HNN-extensions, Bass-Serre theory. Solvable and nilpotent groups. Quasi-isometries and geometric properties of groups. Prerequisite: MATH 500 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/503"
+  },
+  {
+    "class-number": "MATH 505",
+    "class-title": "Homological Algebra",
+    "credits": "4 Hours Hours.",
+    "description": "Topics include: 1. Snake lemma, homology, long exact sequence in homology; 2. Projective and injective modules and resolutions; 3. Categories, functors and derived functors. Tor and Ext, local cohomology; 4. Group cohomology, bar resolution; 5. Spectral sequences, techniques of computation, Serre spectral sequence. Grothendieck spectral sequence of composite functors; 6. Time permitting: Derived categories, Gysin sequence, Kunneth formula, universal coefficient theorm, Eilenberg-Moore sequence. Prerequisite: MATH 501 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/505"
+  },
+  {
+    "class-number": "MATH 506",
+    "class-title": "Group Representation Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Representation of groups by linear transformations, group algebras, character theory, and modular representations. Prerequisite: MATH 501 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/506"
+  },
+  {
+    "class-number": "MATH 510",
+    "class-title": "Riemann Surf & Algebraic Curv",
+    "credits": "4 Hours Hours.",
+    "description": "An introduction to Riemann Surfaces from both the algebraic and function-theoretic points of view. Topics include holomorphic and meromorphic differential forms, integration of differential forms, divisors and linear equivalence, the genus of a compact Riemann surface, projective algebraic curves, the Riemann-Roch theorem, and applications. Prerequisite: MATH 542.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/510"
+  },
+  {
+    "class-number": "MATH 511",
+    "class-title": "Intro to Algebraic Geometry",
+    "credits": "4 Hours Hours.",
+    "description": "An introduction to the study of algebraic sets defined by polynomial equations; affine and projective space and their subvarieties; rational and regular functions and mappings; divisors, linear systems, and projective embeddings; birational geometry, blowing up; Grassmannians and other special varieties. Prerequisite: MATH 500.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/511"
+  },
+  {
+    "class-number": "MATH 512",
+    "class-title": "Modern Algebraic Geometry",
+    "credits": "4 Hours Hours.",
+    "description": "An introduction to the tools and ideas of contemporary algebraic geometry, with particular focus on the language of schemes. 4 graduate hours. No professional credit. Prerequisite: MATH 500, and one of MATH 510, MATH 511, or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/512"
+  },
+  {
+    "class-number": "MATH 514",
+    "class-title": "Complex Algebraic Geometry",
+    "credits": "4 Hours Hours.",
+    "description": "Hodge theory of complex manifolds; examples, applications, and topological invariants. 4 graduate hours. No professional credit. Credit is not given for MATH 514 if credit for MATH 524 has been earned. Prerequisite: MATH 448 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/514"
+  },
+  {
+    "class-number": "MATH 518",
+    "class-title": "Differentiable Manifolds I",
+    "credits": "4 Hours Hours.",
+    "description": "Definitions and properties of differentiable manifolds and maps, (co)tangent bundles, vector fields and flows, Frobenius theorem, differential forms, exterior derivatives, integration and Stokes' theorem, DeRham cohomology, inverse function theorem, Sard's theorem, transversality and intersection theory. Prerequisite: MATH 423 or MATH 481, or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/518"
+  },
+  {
+    "class-number": "MATH 519",
+    "class-title": "Differentiable Manifolds II",
+    "credits": "4 Hours Hours.",
+    "description": "Vector bundles, principal bundles, connections, parallel transport, curvature, Chern-Weyl theory, Hodge-DeRham theory. Other topics may include Riemannian geometry, symplectic geometry, spin geometry, and harmonic maps. Prerequisite: MATH 518 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/519"
+  },
+  {
+    "class-number": "MATH 520",
+    "class-title": "Symplectic Geometry",
+    "credits": "4 Hours Hours.",
+    "description": "Introduction to the foundational tools, ideas, examples and theorems of symplectic geometry. It is intended for PhD students studying symplectic geometry, Poisson geometry, and symplectic topology, as well as students in related areas such as dynamical systems, algebraic geometry, complex geometry and low dimensional topology. Covers the local and global structure of symplectic manifolds, their submanifolds, the special automorphisms they support (Hamiltonian flows), their natural boundaries (contact manifolds), their special geometric features (almost complex structures), and their symmetries. The last three weeks of the course will be devoted to a more advanced topic to be determined by the interests of both the instructor and the students. 4 graduate hours. No professional credit. Approved for Letter and S/U grading. Prerequisite: MATH 518.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/520"
+  },
+  {
+    "class-number": "MATH 522",
+    "class-title": "Lie Groups and Lie Algebras I",
+    "credits": "4 Hours Hours.",
+    "description": "A general introduction to Lie groups and algebras and their representation theory. Theory of finite group representations, Lie groups as matrix groups, and as differentiable manifolds, Lie algebras as tangent spaces and as abstract objects, and their representations. Examples of the classical groups. May be repeated up to 8 hours. Prerequisite: Undergraduate linear algebra, abstract algebra, point set topology, differentiation on manifolds.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/522"
+  },
+  {
+    "class-number": "MATH 525",
+    "class-title": "Algebraic Topology I",
+    "credits": "4 Hours Hours.",
+    "description": "Introduction to the study of topological spaces by means of algebraic invariants. Topics include the fundamental group, covering spaces and their classification, simplicial and singular homology, applications such as the Brouwer fixed point theorem and the Jordan curve theorem. Prerequisite: MATH 417 and MATH 448 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/525"
+  },
+  {
+    "class-number": "MATH 526",
+    "class-title": "Algebraic Topology II",
+    "credits": "4 Hours Hours.",
+    "description": "CW-complexes, relative homeomorphism theorem, cellular homology, cohomology, Kunneth theorem, Eilenberg-Zilber theorem, cup products, Poincare duality, examples. Prerequisite: MATH 525, MATH 500; or consent of instructor. MATH 501 is recommended but not required.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/526"
+  },
+  {
+    "class-number": "MATH 527",
+    "class-title": "Homotopy Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Homotopy groups, fibrations and cofibrations, Hurewicz theorem, obstruction theory, Whitehead theorem and additional topics perhaps drawn from Postnikov towers, Freudenthal suspension theorem, Blakers-Massey theorem, spectra. Prerequisite: MATH 526. MATH 501 is recommended but not required.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/527"
+  },
+  {
+    "class-number": "MATH 530",
+    "class-title": "Algebraic Number Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Further development of the theory of fields covering topics from valuation theory, ideal theory, units in algebraic number fields, ramification, function fields, and local class field theory. Prerequisite: MATH 500 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/530"
+  },
+  {
+    "class-number": "MATH 531",
+    "class-title": "Analytic Theory of Numbers I",
+    "credits": "4 Hours Hours.",
+    "description": "Problems in number theory treated by methods of analysis; arithmetic functions, Dirichlet series, Riemann zeta function, L-functions, Dirichlet's theorem on primes in progressions, the prime number theorem. Prerequisite: MATH 448 and either MATH 417 or MATH 453.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/531"
+  },
+  {
+    "class-number": "MATH 532",
+    "class-title": "Analytic Theory of Numbers II",
+    "credits": "4 Hours Hours.",
+    "description": "Development of themes from MATH 531 and further topics chosen from additive number theory, asymptotic properties of multiplicative functions, circle method, diophantine approximation, lattice point problems, metric theory, modular forms, sieve theory. May be repeated. Prerequisite: MATH 531.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/532"
+  },
+  {
+    "class-number": "MATH 533",
+    "class-title": "Fiber Spaces and Char Classes",
+    "credits": "4 Hours Hours.",
+    "description": "Study of fiber bundles and their associated characteristic classes; applications to geometric problems. Prerequisite: MATH 526.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/533"
+  },
+  {
+    "class-number": "MATH 535",
+    "class-title": "General Topology",
+    "credits": "4 Hours Hours.",
+    "description": "Study of topological spaces and maps, including Cartesian products, identifications, connectedness, compactness, uniform spaces, and function spaces. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/535"
+  },
+  {
+    "class-number": "MATH 540",
+    "class-title": "Real Analysis",
+    "credits": "4 Hours Hours.",
+    "description": "Lebesgue measure on the real line; integration and differentiation of real valued functions of a real variable; and additional topics at discretion of instructor. Prerequisite: MATH 447 or equivalent.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/540"
+  },
+  {
+    "class-number": "MATH 541",
+    "class-title": "Functional Analysis",
+    "credits": "4 Hours Hours.",
+    "description": "Fundamental results in functional analysis; spectral theory of compact operators; further topics chosen by the instructor. Prerequisite: MATH 540.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/541"
+  },
+  {
+    "class-number": "MATH 542",
+    "class-title": "Complex Variables I",
+    "credits": "4 Hours Hours.",
+    "description": "Topics include the Cauchy theory, harmonic functions, entire and meromorphic functions, and the Riemann mapping theorem. Prerequisite: MATH 446 and MATH 447, or MATH 448.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/542"
+  },
+  {
+    "class-number": "MATH 543",
+    "class-title": "Complex Variables II",
+    "credits": "4 Hours Hours.",
+    "description": "Continuation of MATH 542. Topics include Riemann Surfaces, Hyperbolic Metric, Potential Theory and Quasiconformal Mappings. Prerequisite: MATH 542.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/543"
+  },
+  {
+    "class-number": "MATH 545",
+    "class-title": "Harmonic Analysis",
+    "credits": "4 Hours Hours.",
+    "description": "Harmonic analysis on the circle, the line, and the integers, i.e., Fourier series and transforms; locally compact Abelian groups; convergence and summability; conjugate functions; Hardy spaces; uniqueness; Tauberian theorems; almost-periodic functions; commutative Banach algebras. Prerequisite: MATH 448 and MATH 541; knowledge of Banach spaces.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/545"
+  },
+  {
+    "class-number": "MATH 546",
+    "class-title": "Hilbert Spaces",
+    "credits": "4 Hours Hours.",
+    "description": "Geometrical properties of Hilbert spaces, spectral theorems for compact, bounded and unbounded operators, basic theory of operator algebras, and additional material depending on the instructor. Prerequisite: MATH 541.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/546"
+  },
+  {
+    "class-number": "MATH 547",
+    "class-title": "Banach Spaces",
+    "credits": "4 Hours Hours.",
+    "description": "Basic properties and fundamental theorems of Banach spaces and bounded linear maps, trace duality, absolutely summing maps, local theory, type and cotype, probabilistic techniques in Banach spaces, and further topics depending on the instructor. 4 graduate hours. No professional credit. Prerequisite: MATH 541.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/547"
+  },
+  {
+    "class-number": "MATH 550",
+    "class-title": "Dynamical Systems I",
+    "credits": "4 Hours Hours.",
+    "description": "An introduction to the study of dynamical systems. Considers continuous and discrete dynamical systems at a sophisticated level: differential equations, flows and maps on Euclidean space and other manifolds. Emphasis will be placed on the fundamental theoretical concepts and the interaction between the geometry and topology of manifolds and global flows. Discrete dynamics includes Bernoulli shifts, elementary Anosov diffeomorphisms and surfaces of sections of flows. Bifurcation phenomena in both continuous and discrete dynamics will be studied. Prerequisite: MATH 489 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/550"
+  },
+  {
+    "class-number": "MATH 552",
+    "class-title": "Numerical Methods for PDEs",
+    "credits": "4 Hours Hours.",
+    "description": "Same as CS 555 and CSE 510. See CS 555.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/552"
+  },
+  {
+    "class-number": "MATH 553",
+    "class-title": "Partial Differential Equations",
+    "credits": "4 Hours Hours.",
+    "description": "Basic introduction to the study of partial differential equations; topics include: the Cauchy problem, power-series methods, characteristics, classification, canonical forms, well-posed problems, Riemann's method for hyperbolic equations, the Goursat problem, the wave equation, Sturm-Liouville problems and separation of variables, Fourier series, the heat equation, integral transforms, Laplace's equation, harmonic functions, potential theory, the Dirichlet and Neumann problems, and Green's functions. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/553"
+  },
+  {
+    "class-number": "MATH 554",
+    "class-title": "Linear Analysis and Partial Differential Equations",
+    "credits": "4 Hours Hours.",
+    "description": "Course will provide students with the basic background in linear analysis associated with partial differential equations. The specific topics chosen will be largely up to the instructor, but will cover such areas as linear partial differential operators, distribution theory and test functions, Fourier transforms, Sobolev spaces, pseudodifferential operators, microlocal analysis, and applications of the above topics. 4 graduate hours. No professional credit. Prerequisite: MATH 553 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/554"
+  },
+  {
+    "class-number": "MATH 555",
+    "class-title": "Nonlinear Analysis and Partial Differential Equations",
+    "credits": "4 Hours Hours.",
+    "description": "Course will provide students with the basic background in nonlinear analysis associated with partial differential equations. The specific topics chosen will be largely up to the instructor, but will cover such areas as existence and uniqueness techniques, nonexistence and finite time blow-up results, hyperbolic conservation laws, weak solutions, stability theory, nonlinear elliptic theory, regularity theory. 4 graduate hours. No professional credit. May be repeated as topics vary. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/555"
+  },
+  {
+    "class-number": "MATH 558",
+    "class-title": "Methods of Applied Mathematics",
+    "credits": "4 Hours Hours.",
+    "description": "Introduction to modern methods of applied mathematics, including nondimensionalization and scaling analysis, regular and singular asymptotics, analysis of multiscale systems, and analysis of complex systems. Each technique is illustrated with applications from science and engineering. The mathematical frameworks will include ordinary, partial and stochastic differential equations, point processes, and Markov chains. Prerequisite: Undergraduate background in ODEs, PDEs, and probability theory (MATH 441, MATH 442, and MATH 461, or equivalents), or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/558"
+  },
+  {
+    "class-number": "MATH 561",
+    "class-title": "Theory of Probability I",
+    "credits": "4 Hours Hours.",
+    "description": "Mathematical foundations of probability and stochastic processes; probability measures, random variables, distribution functions, convergence theory, the Central Limit Theorem, conditional expectation, and martingale theory. Same as STAT 551. Prerequisite: MATH 541 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/561"
+  },
+  {
+    "class-number": "MATH 562",
+    "class-title": "Theory of Probability II",
+    "credits": "4 Hours Hours.",
+    "description": "Continuation of MATH 561. Same as STAT 552. Prerequisite: MATH 561.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/562"
+  },
+  {
+    "class-number": "MATH 563",
+    "class-title": "Risk Modeling and Analysis",
+    "credits": "4 Hours Hours.",
+    "description": "Quantitative tools for measuring risks and modeling dependencies. Topics include risk measures, stochastic orders, copulas, dependence measures, and their statistical inferences. Same as STAT 558. 4 graduate hours. No professional credit. Prerequisite: MATH 408 or MATH 461.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/563"
+  },
+  {
+    "class-number": "MATH 564",
+    "class-title": "Applied Stochastic Processes",
+    "credits": "4 Hours Hours.",
+    "description": "Introduction to topics such as spectral analysis, filtering theory, and prediction theory of stationary processes; Markov chains and Markov processes. Same as STAT 555. Prerequisite: MATH 446 and MATH 447.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/564"
+  },
+  {
+    "class-number": "MATH 570",
+    "class-title": "Mathematical Logic",
+    "credits": "4 Hours Hours.",
+    "description": "Development of first order predicate logic; completeness theorem; formalized number theory and the Godel incompleteness theorem. Prerequisite: MATH 417 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/570"
+  },
+  {
+    "class-number": "MATH 571",
+    "class-title": "Model Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Techniques for constructing models, including compactness and Lowenheim-Skolem theorems, unions of elementary chains, and omitting types construction; categorical theories; ultraproducts; saturated models; quantifier elimination; applications to algebraically closed fields, real closed fields, and other fundamental structures of mathematics. Prerequisite: MATH 570 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/571"
+  },
+  {
+    "class-number": "MATH 574",
+    "class-title": "Set Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Zermelo-Fraenkel axiomatic set theory; basic concepts in set theory such as ordinal, cardinal, rank, and definition by transfinite recursion; Godel's constructible universe; introduction to forcing; Boolean valued universes; large cardinals; consistency and independence of the continuum hypothesis and the axiom of choice. Prerequisite: MATH 570 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/574"
+  },
+  {
+    "class-number": "MATH 580",
+    "class-title": "Combinatorial Mathematics",
+    "credits": "4 Hours Hours.",
+    "description": "Fundamental results on core topics of combinatorial mathematics: classical enumeration, basic graph theory, extremal problems on finite sets, probabilistic methods, design theory, discrete optimization. Same as CS 571. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/580"
+  },
+  {
+    "class-number": "MATH 581",
+    "class-title": "Extremal Graph Theory",
+    "credits": "4 Hours Hours.",
+    "description": "Extremal problems and parameters for graphs. Distance and connectivity, matching and factors, vertex and edge colorings, perfect and imperfect graphs, intersection classes and intersection parameters, Turan's theorem, graph Ramsey theory, graph decomposition and other extremal problems. Same as CS 572. Prerequisite: MATH 580 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/581"
+  },
+  {
+    "class-number": "MATH 582",
+    "class-title": "Structure of Graphs",
+    "credits": "4 Hours Hours.",
+    "description": "Structure of graphs and properties of special classes of graphs. Degree sequences and reconstruction, structure of k-connected graphs, Hamiltonian cycles and circumference, planar graphs and their properties, graph minors, cycle coverings, matroidal and algebraic aspects of graphs. Prerequisite: MATH 580 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/582"
+  },
+  {
+    "class-number": "MATH 583",
+    "class-title": "Partial Orders and Comb Optim",
+    "credits": "4 Hours Hours.",
+    "description": "Combinatorial aspects of partially ordered sets and their relation to optimization problems. Structure of posets and lattices, Dilworth's theorem and generalizations, linear extensions and sorting, dimension of posets, order ideals, extremal set theory, integer programming and minmax relations, matroids and their applications. Prerequisite: MATH 580 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/583"
+  },
+  {
+    "class-number": "MATH 584",
+    "class-title": "Methods of Combinatorics",
+    "credits": "4 Hours Hours.",
+    "description": "Combinatorial methods and other mathematical methods for combinatorial problems. Enumeration by bijections and generating functions, probabilistic methods for existence proofs and asymptotic analysis, randomized algorithms, Ramsey's theorem and related topics, combinatorial designs and their applications, geometric problems and methods. Same as CS 575. Prerequisite: MATH 580 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/584"
+  },
+  {
+    "class-number": "MATH 585",
+    "class-title": "Probabilistic Combinatorics",
+    "credits": "4 Hours Hours.",
+    "description": "Techniques and applications of probabilistic methods in combinatorics. Draws applications from a variety of areas, but emphasizes theoretical aspects of random graphs, including connectivity, trees & cycles, planarity, and coloring problems. Techniques include the second moment method, Lovasz Local Lemma, martingales, Talgrand's Inequality, the Rodl Nibble, and Szemeredi's Regularity Lemma. Applications may come from discrete geometry, coding theory, algorithms & complexity, additive number theory, percolation, positional games, etc. Prerequisite: MATH 580 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/585"
+  },
+  {
+    "class-number": "MATH 586",
+    "class-title": "Algebraic Combinatorics",
+    "credits": "4 Hours Hours.",
+    "description": "Prepares students for research in modern algebraic combinatorics by focusing on its three principal components: enumerative techniques, symmetric functions, and multivariate polynomials. 4 graduate hours. No professional credit. Prerequisite: MATH 580 or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/586"
+  },
+  {
+    "class-number": "MATH 589",
+    "class-title": "Conjugate Duality and Optim",
+    "credits": "4 Hours Hours.",
+    "description": "Convex analysis for constrained extremum problems; convex sets, cones, and functions; separation; Fenchel transform; duality correspondences; differential theory; nonlinear programming; sensitivity; and perturbational duality for primal, dual, and Lagrangian problems. Prerequisite: MATH 415 and MATH 447, or consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/589"
+  },
+  {
+    "class-number": "MATH 593",
+    "class-title": "Mathematical Internship",
+    "credits": "0 Hours Hours.",
+    "description": "Full-time or part-time practice of graduate-level mathematics in an off-campus government, industrial, or research laboratory environment. Summary report required. 0 graduate credit. No professional credit. Approved for S/U grading only. May be repeated in separate terms.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/593"
+  },
+  {
+    "class-number": "MATH 595",
+    "class-title": "Advanced Topics in Mathematics",
+    "credits": "1 to 4 Hours Hours.",
+    "description": "See Class Schedule for current topics. 1 to 4 graduate hours. No professional credit. May be repeated in the same or separate semesters. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/595"
+  },
+  {
+    "class-number": "MATH 597",
+    "class-title": "Reading Course",
+    "credits": "1 to 8 Hours Hours.",
+    "description": "Independent study in Mathematics. 1 to 8 graduate hours. No professional credit. Approved for Letter and S/U grading. May be repeated in the same or separate terms, with a maximum of 8 hours per semester. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/597"
+  },
+  {
+    "class-number": "MATH 598",
+    "class-title": "Literature Seminar in Math",
+    "credits": "0 to 4 Hours Hours.",
+    "description": "Seminar on topics of current interest in mathematics. Students present seminars and discussions on various topics. See Class Schedule for current topics. Recommended for all Mathematics students. 0 to 4 graduate hours. No professional credit. Approved for Letter and S/U grading. May be repeated in the same or separate semesters as topics vary. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/598"
+  },
+  {
+    "class-number": "MATH 599",
+    "class-title": "Thesis Research",
+    "credits": "0 to 16 Hours Hours.",
+    "description": "Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.",
+    "link": "https://courses.illinois.edu/schedule/terms/MATH/599"
+  }
+]
