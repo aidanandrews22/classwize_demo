@@ -1,6 +1,5 @@
 //src/App.tsx
 import React, { useState } from 'react';
-import { useUser } from '@clerk/clerk-react';
 import ScheduleView from './components/ScheduleView';
 import CourseDataViewer from './components/CourseDataViewer';
 import ChatWindow from './components/chat/ChatWindow';
@@ -9,7 +8,7 @@ import { Message } from './types/chat';
 import { AuthWrapper } from './components/auth/AuthWrapper';
 
 const App: React.FC = () => {
-  const { user } = useUser();
+  const testUserId = 'test-user-123';
   const [isChatOpen, setIsChatOpen] = useState(false);
   const [currentView, setCurrentView] = useState<'schedule' | 'courses' | 'profile'>('schedule');
   const [messages, setMessages] = useState<Message[]>([
@@ -84,11 +83,11 @@ const App: React.FC = () => {
           </div>
 
           {currentView === 'schedule' ? (
-              <ScheduleView userId={user?.id || ''} />
+              <ScheduleView userId={testUserId} />
           ) : currentView === 'courses' ? (
-              <CourseDataViewer userId={user?.id || ''} />
+              <CourseDataViewer userId={testUserId} />
           ) : (
-              <ProfileManager />
+              <ProfileManager userId={testUserId} />
           )}
 
           <button

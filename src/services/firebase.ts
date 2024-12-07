@@ -112,19 +112,7 @@ const firebaseService = {
         semesterId: string,
         courseIds: string[]
     ): Promise<void> => {
-        const userRef = doc(db, 'users', userId);
-        const userData = await getDoc(userRef);
 
-        if (userData.exists()) {
-            const semesters = userData.data().semesters;
-            const updatedSemesters = semesters.map((semester: any) =>
-                semester.id === semesterId
-                    ? { ...semester, courseIds }
-                    : semester
-            );
-
-            await updateDoc(userRef, { semesters: updatedSemesters });
-        }
     },
 
     // User schedule methods
@@ -146,21 +134,12 @@ const firebaseService = {
             courseIds: string[];
         }>
     ): Promise<void> => {
-        const userRef = doc(db, 'users', userId);
-        await updateDoc(userRef, { semesters });
+
     },
 
     // Add this new function to update completed courses
     updateUserCompletedCourses: async (userId: string, completedCourseIds: string[]) => {
-        try {
-            const userRef = doc(db, 'users', userId);
-            await updateDoc(userRef, {
-                completedCourses: completedCourseIds
-            });
-        } catch (error) {
-            console.error('Error updating completed courses:', error);
-            throw error;
-        }
+
     },
 
     // Add this function to get completed courses

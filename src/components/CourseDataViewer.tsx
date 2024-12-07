@@ -267,7 +267,6 @@ const CourseDataViewer: React.FC<CourseDataViewerProps> = ({
                                 <Card 
                                     key={course.id} 
                                     className={`overflow-hidden ${isModal ? 'cursor-pointer hover:bg-gray-50' : ''}`}
-                                    onClick={() => isModal && onSelectCourse?.(course)}
                                 >
                                     <CardHeader className="bg-blue-50">
                                         <div className="flex justify-between items-start">
@@ -296,56 +295,70 @@ const CourseDataViewer: React.FC<CourseDataViewerProps> = ({
                                                         >
                                                             Move
                                                         </button>
-                                                        <button
-                                                            onClick={() => {/* Add navigation to schedule view */}}
-                                                            className="p-2 rounded-full hover:bg-blue-200 text-blue-600 transition-colors"
-                                                            title="View Schedule"
-                                                        >
-                                                            <Calendar size={20} />
-                                                        </button>
+                                                        {!isModal && (
+                                                            <button
+                                                                onClick={() => {/* Add navigation to schedule view */}}
+                                                                className="p-2 rounded-full hover:bg-blue-200 text-blue-600 transition-colors"
+                                                                title="View Schedule"
+                                                            >
+                                                                <Calendar size={20} />
+                                                            </button>
+                                                        )}
                                                     </div>
                                                 ) : (
-                                                    <div className="relative">
+                                                    isModal ? (
                                                         <button
                                                             onClick={(e) => {
                                                                 e.stopPropagation();
-                                                                setShowAddMenu({
-                                                                    ...showAddMenu,
-                                                                    [course.id]: !showAddMenu[course.id]
-                                                                });
+                                                                onSelectCourse?.(course);
                                                             }}
-                                                            className="p-2 rounded-full hover:bg-blue-200 text-blue-600 transition-colors flex items-center gap-1"
+                                                            className="px-3 py-1 text-sm rounded-md bg-blue-600 text-white hover:bg-blue-700 transition-colors"
                                                         >
-                                                            <Plus size={20} />
+                                                            Add
                                                         </button>
-                                                        {showAddMenu[course.id] && !isModal && (
-                                                            <>
-                                                                <div 
-                                                                    className="fixed inset-0" 
-                                                                    onClick={() => setShowAddMenu({...showAddMenu, [course.id]: false})}
-                                                                />
-                                                                <div className="absolute right-0 top-full mt-2 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 z-50">
-                                                                    <div className="py-1">
-                                                                        <div className="px-4 py-2 text-sm font-medium text-gray-700 border-b">
-                                                                            Choose Semester
+                                                    ) : (
+                                                        <div className="relative">
+                                                            <button
+                                                                onClick={(e) => {
+                                                                    e.stopPropagation();
+                                                                    setShowAddMenu({
+                                                                        ...showAddMenu,
+                                                                        [course.id]: !showAddMenu[course.id]
+                                                                    });
+                                                                }}
+                                                                className="p-2 rounded-full hover:bg-blue-200 text-blue-600 transition-colors flex items-center gap-1"
+                                                            >
+                                                                <Plus size={20} />
+                                                            </button>
+                                                            {showAddMenu[course.id] && !isModal && (
+                                                                <>
+                                                                    <div 
+                                                                        className="fixed inset-0" 
+                                                                        onClick={() => setShowAddMenu({...showAddMenu, [course.id]: false})}
+                                                                    />
+                                                                    <div className="absolute right-0 top-full mt-2 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 z-50">
+                                                                        <div className="py-1">
+                                                                            <div className="px-4 py-2 text-sm font-medium text-gray-700 border-b">
+                                                                                Choose Semester
+                                                                            </div>
+                                                                            {semesters.map((semester) => (
+                                                                                <button
+                                                                                    key={semester.id}
+                                                                                    onClick={(e) => {
+                                                                                        e.stopPropagation();
+                                                                                        handleAddCourse(course.id, semester.id);
+                                                                                    }}
+                                                                                    className="block w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition-colors"
+                                                                                >
+                                                                                    {semester.name}
+                                                                                </button>
+                                                                            ))}
                                                                         </div>
-                                                                        {semesters.map((semester) => (
-                                                                            <button
-                                                                                key={semester.id}
-                                                                                onClick={(e) => {
-                                                                                    e.stopPropagation();
-                                                                                    handleAddCourse(course.id, semester.id);
-                                                                                }}
-                                                                                className="block w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 transition-colors"
-                                                                            >
-                                                                                {semester.name}
-                                                                            </button>
-                                                                        ))}
                                                                     </div>
-                                                                </div>
-                                                            </>
-                                                        )}
-                                                    </div>
+                                                                </>
+                                                            )}
+                                                        </div>
+                                                    )
                                                 )}
                                             </div>
                                         </div>
@@ -386,7 +399,15 @@ const CourseDataViewer: React.FC<CourseDataViewerProps> = ({
 
     if (isModal) {
         return (
-            <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+            <div 
+                className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
+                onClick={(e) => {
+                    // Only close if clicking the backdrop (not the modal content)
+                    if (e.target === e.currentTarget) {
+                        onClose?.();
+                    }
+                }}
+            >
                 <div className="bg-white rounded-lg w-full max-w-2xl max-h-[90vh] overflow-y-auto">
                     {content}
                 </div>

@@ -4,7 +4,11 @@ import { useUser } from '@clerk/clerk-react';
 import { Card, CardHeader, CardTitle, CardContent } from '../ui/card';
 import firebaseService from '../../services/firebase';
 
-const ProfileManager: React.FC = () => {
+interface ProfileManagerProps {
+    userId: string;
+}
+
+const ProfileManager: React.FC<ProfileManagerProps> = ({ userId }) => {
     const { user } = useUser();
     const [loading, setLoading] = useState(true);
     const [profileData, setProfileData] = useState({
