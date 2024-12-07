@@ -1,4 +1,5 @@
-# This is just a demo. Real code will be open sourced after MVP.
+# ⚠️⚠️This is just a demo.⚠️⚠️ 
+- **Real code will be open sourced after MVP.**
 
 ## Getting Started with Create React App
 
